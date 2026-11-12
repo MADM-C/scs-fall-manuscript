@@ -1,0 +1,1010 @@
+participant_id,part_age,part_gender,part_metro_status,part_hh_inc,part_hh_size,part_school,part_work,part_weekday,total_contacts_topcode
+2000012421,10–14,M,Metro,"$75,000 to $99,999",3,No school,No in-person work,Weekday,12
+2000012641,0–4,M,Metro,"$150,000+",3,In-person school,No in-person work,Weekday,7
+2000012805,0–4,M,Metro,"$75,000 to $99,999",5,No school,No in-person work,Weekday,7
+2000013247,10–14,F,Metro,"$100,000 to $149,999",3,In-person school,No in-person work,Weekday,40
+2000013815,0–4,F,Metro,"$150,000+",4,In-person school,No in-person work,Weekday,28
+2000013935,15–19,F,Metro,"<$25,000",4,In-person school,No in-person work,Weekday,3
+2000014503,5–9,F,Metro,"$100,000 to $149,999",4,In-person school,No in-person work,Weekday,40
+2000014747,5–9,M,Metro,"$100,000 to $149,999",3,In-person school,No in-person work,Weekday,3
+2000015449,15–19,M,Non-Metro,"$25,000 to $49,999",6+,In-person school,No in-person work,Weekday,0
+2000016643,10–14,M,Metro,"$75,000 to $99,999",5,In-person school,No in-person work,Weekday,33
+2000017077,5–9,F,Metro,"$25,000 to $49,999",4,In-person school,No in-person work,Weekday,15
+2000017251,5–9,F,Metro,"$150,000+",4,In-person school,No in-person work,Weekday,40
+2000017357,10–14,M,Metro,"<$25,000",3,In-person school,No in-person work,Weekday,4
+2000018163,15–19,F,Metro,"$25,000 to $49,999",5,No school,No in-person work,Weekday,40
+2000018779,5–9,M,Non-Metro,"$25,000 to $49,999",2,In-person school,No in-person work,Weekday,6
+2000019293,15–19,M,Metro,"$150,000+",4,No school,In-person work,Weekday,4
+2000019835,10–14,M,Metro,"$25,000 to $49,999",4,In-person school,No in-person work,Weekday,7
+2000019931,5–9,F,Non-Metro,"$25,000 to $49,999",2,No school,No in-person work,Weekday,1
+2000021587,0–4,M,Metro,"$25,000 to $49,999",3,In-person school,No in-person work,Weekday,9
+2000022381,10–14,F,Metro,"$25,000 to $49,999",2,In-person school,No in-person work,Weekday,32
+2000023039,0–4,M,Non-Metro,"$150,000+",4,In-person school,No in-person work,Weekday,6
+2000024391,5–9,M,Metro,"$100,000 to $149,999",3,In-person school,No in-person work,Weekday,4
+2000024507,0–4,F,Metro,"<$25,000",4,No school,No in-person work,Weekday,3
+2000024675,15–19,F,Metro,"$100,000 to $149,999",5,No school,No in-person work,Weekday,5
+2000025143,5–9,M,Metro,"$25,000 to $49,999",2,In-person school,No in-person work,Weekday,21
+2000025219,5–9,M,Non-Metro,"$50,000 to $74,999",4,In-person school,No in-person work,Weekday,6
+2000025229,5–9,F,Metro,"$150,000+",3,In-person school,No in-person work,Weekday,40
+2000025657,0–4,F,Metro,"<$25,000",3,In-person school,No in-person work,Weekday,6
+2000025691,0–4,M,Metro,"$75,000 to $99,999",3,No school,No in-person work,Weekday,2
+2000026021,0–4,F,Metro,"$100,000 to $149,999",4,In-person school,No in-person work,Weekday,8
+2000026111,15–19,F,Metro,"$50,000 to $74,999",4,No school,No in-person work,Weekday,2
+2000026745,10–14,F,Metro,"$75,000 to $99,999",5,No school,No in-person work,Weekday,3
+2000028233,0–4,F,Metro,"$25,000 to $49,999",3,In-person school,No in-person work,Weekday,3
+2000028329,10–14,M,Non-Metro,"$50,000 to $74,999",4,In-person school,No in-person work,Weekday,24
+2000029063,0–4,F,Metro,"$100,000 to $149,999",5,No school,No in-person work,Weekday,4
+2000029853,5–9,M,Metro,"$150,000+",3,In-person school,No in-person work,Weekday,5
+2000029963,15–19,M,Metro,"$75,000 to $99,999",3,No school,In-person work,Weekday,5
+2000029981,5–9,M,Non-Metro,"$50,000 to $74,999",4,In-person school,No in-person work,Weekday,13
+2000030365,10–14,F,Non-Metro,"$25,000 to $49,999",3,No school,No in-person work,Weekday,2
+2000030945,10–14,M,Metro,"$100,000 to $149,999",5,In-person school,No in-person work,Weekday,9
+2000031043,15–19,F,Non-Metro,"<$25,000",5,In-person school,No in-person work,Weekday,9
+2000031073,0–4,F,Metro,"$50,000 to $74,999",3,No school,No in-person work,Weekday,5
+2000031541,10–14,M,Metro,"$25,000 to $49,999",4,In-person school,No in-person work,Weekday,6
+2000032281,5–9,M,Metro,"$50,000 to $74,999",6+,In-person school,No in-person work,Weekday,9
+2000032463,0–4,F,Metro,"$50,000 to $74,999",3,In-person school,No in-person work,Weekday,2
+2000034129,5–9,M,Metro,"$100,000 to $149,999",3,In-person school,No in-person work,Weekday,6
+2000035457,10–14,M,Metro,"$25,000 to $49,999",2,In-person school,No in-person work,Weekday,5
+2000035533,0–4,M,Non-Metro,"$150,000+",3,In-person school,No in-person work,Weekday,17
+2000035725,5–9,M,Metro,"$25,000 to $49,999",4,In-person school,No in-person work,Weekday,13
+2000037025,0–4,F,Metro,"$25,000 to $49,999",4,No school,No in-person work,Weekday,3
+2000037275,10–14,M,Metro,"$75,000 to $99,999",3,In-person school,No in-person work,Weekday,11
+2000038405,10–14,F,Non-Metro,"$25,000 to $49,999",4,In-person school,In-person work,Weekday,13
+2000038947,5–9,M,Metro,"$150,000+",4,In-person school,No in-person work,Weekday,3
+2000040103,0–4,M,Metro,"$25,000 to $49,999",2,In-person school,No in-person work,Weekday,4
+2000040321,10–14,M,Metro,"$50,000 to $74,999",4,In-person school,No in-person work,Weekday,15
+2000040445,10–14,M,Non-Metro,"$150,000+",4,In-person school,No in-person work,Weekday,10
+2000040699,5–9,M,Non-Metro,"<$25,000",6+,In-person school,No in-person work,Weekday,8
+2000040911,10–14,F,Metro,"<$25,000",4,In-person school,No in-person work,Weekday,3
+2000040989,15–19,M,Metro,"$100,000 to $149,999",5,No school,In-person work,Weekday,6
+2000041159,0–4,M,Non-Metro,"$50,000 to $74,999",6+,No school,No in-person work,Weekday,6
+2000041379,10–14,F,Non-Metro,"$100,000 to $149,999",3,In-person school,No in-person work,Weekday,5
+2000042215,5–9,M,Non-Metro,"$50,000 to $74,999",3,In-person school,No in-person work,Weekday,6
+2000042965,15–19,M,Non-Metro,"$150,000+",4,In-person school,No in-person work,Weekday,24
+2000043387,0–4,M,Metro,"$75,000 to $99,999",3,In-person school,No in-person work,Weekday,5
+2000043527,5–9,F,Metro,"$75,000 to $99,999",5,Online/Remote,No in-person work,Weekday,1
+2000043889,0–4,F,Metro,"$75,000 to $99,999",4,In-person school,No in-person work,Weekday,15
+2000044521,5–9,F,Metro,"$75,000 to $99,999",3,In-person school,No in-person work,Weekday,12
+2000045767,15–19,M,Non-Metro,"$25,000 to $49,999",3,In-person school,In-person work,Weekday,40
+2000046153,10–14,M,Metro,"$75,000 to $99,999",3,In-person school,No in-person work,Weekday,8
+2000047169,0–4,M,Non-Metro,"$100,000 to $149,999",4,In-person school,No in-person work,Weekday,4
+2000048185,15–19,M,Metro,"$150,000+",4,No school,In-person work,Weekday,8
+2000049373,0–4,M,Metro,"$150,000+",4,In-person school,No in-person work,Weekday,6
+2000050297,5–9,F,Metro,"$50,000 to $74,999",6+,No school,No in-person work,Weekday,4
+2000050331,0–4,F,Metro,"$100,000 to $149,999",5,No school,No in-person work,Weekday,2
+2000050435,5–9,F,Metro,"$100,000 to $149,999",5,In-person school,No in-person work,Weekday,4
+2000050783,0–4,F,Non-Metro,"$100,000 to $149,999",3,In-person school,No in-person work,Weekday,3
+2000051429,0–4,F,Metro,"$100,000 to $149,999",3,In-person school,No in-person work,Weekday,5
+2000051953,10–14,M,Metro,"$150,000+",5,In-person school,No in-person work,Weekday,40
+2000052297,5–9,M,Metro,"$25,000 to $49,999",4,In-person school,No in-person work,Weekday,4
+2000052987,10–14,F,Metro,"$75,000 to $99,999",5,In-person school,No in-person work,Weekday,13
+2000053897,5–9,M,Metro,"$100,000 to $149,999",3,In-person school,No in-person work,Weekday,3
+2000053963,5–9,F,Metro,"$50,000 to $74,999",4,In-person school,No in-person work,Weekday,5
+2000054263,10–14,M,Non-Metro,"<$25,000",4,No school,No in-person work,Weekday,2
+2000055579,0–4,F,Metro,"$150,000+",4,In-person school,No in-person work,Weekday,14
+2000055613,0–4,M,Metro,"$25,000 to $49,999",3,In-person school,No in-person work,Weekday,2
+2000056497,0–4,M,Non-Metro,"$50,000 to $74,999",4,No school,No in-person work,Weekday,5
+2000057079,10–14,F,Non-Metro,"$75,000 to $99,999",4,In-person school,No in-person work,Weekday,20
+2000058407,15–19,F,Non-Metro,"$25,000 to $49,999",5,No school,In-person work,Weekday,8
+2000059045,10–14,F,Metro,"$50,000 to $74,999",4,No school,No in-person work,Weekday,12
+2000059481,10–14,F,Metro,"$75,000 to $99,999",4,In-person school,No in-person work,Weekday,23
+2000059743,0–4,M,Metro,"$50,000 to $74,999",3,In-person school,No in-person work,Weekday,5
+2000060003,0–4,F,Metro,"$100,000 to $149,999",3,No school,No in-person work,Weekday,5
+2000060113,10–14,F,Metro,"$75,000 to $99,999",2,No school,No in-person work,Weekday,0
+2000061327,10–14,M,Metro,"$75,000 to $99,999",3,In-person school,No in-person work,Weekday,8
+2000061375,15–19,F,Non-Metro,"$150,000+",5,In-person school,In-person work,Weekday,20
+2000061433,0–4,M,Metro,"$75,000 to $99,999",3,No school,No in-person work,Weekday,0
+2000061749,0–4,F,Metro,"$50,000 to $74,999",3,No school,No in-person work,Weekday,2
+2000062681,0–4,M,Metro,"$100,000 to $149,999",6+,No school,No in-person work,Weekday,2
+2000063955,0–4,F,Metro,"$50,000 to $74,999",3,In-person school,No in-person work,Weekday,6
+2000063999,10–14,M,Metro,"$100,000 to $149,999",4,No school,No in-person work,Weekday,1
+2000064005,0–4,F,Metro,"$25,000 to $49,999",4,No school,No in-person work,Weekday,6
+2000065247,5–9,F,Metro,"$50,000 to $74,999",4,No school,No in-person work,Weekday,3
+2000065763,5–9,F,Metro,"<$25,000",2,In-person school,No in-person work,Weekday,38
+2000066025,0–4,M,Metro,"$50,000 to $74,999",4,No school,No in-person work,Weekday,6
+2000067243,5–9,F,Metro,"$100,000 to $149,999",4,In-person school,No in-person work,Weekday,3
+2000067965,0–4,M,Metro,"$50,000 to $74,999",3,In-person school,No in-person work,Weekday,2
+2000068907,0–4,M,Non-Metro,"$150,000+",4,In-person school,No in-person work,Weekday,23
+2000069183,10–14,F,Metro,"$75,000 to $99,999",3,In-person school,No in-person work,Weekday,2
+2000069553,10–14,M,Metro,"$25,000 to $49,999",2,In-person school,No in-person work,Weekday,23
+2000069591,5–9,F,Metro,"$25,000 to $49,999",4,In-person school,No in-person work,Weekday,23
+2000069915,5–9,F,Metro,"$50,000 to $74,999",1,No school,No in-person work,Weekday,2
+2000070291,0–4,M,Metro,"<$25,000",3,No school,No in-person work,Weekday,2
+2000070403,5–9,M,Metro,"$75,000 to $99,999",4,No school,No in-person work,Weekday,3
+2000070889,15–19,M,Metro,"$50,000 to $74,999",6+,No school,No in-person work,Weekday,6
+2000072067,10–14,M,Non-Metro,"$50,000 to $74,999",3,In-person school,No in-person work,Weekday,9
+2000072103,5–9,M,Metro,"$50,000 to $74,999",2,No school,No in-person work,Weekday,1
+2000073037,0–4,M,Metro,"$100,000 to $149,999",4,In-person school,No in-person work,Weekday,6
+2000073185,10–14,M,Non-Metro,"<$25,000",2,In-person school,No in-person work,Weekday,5
+2000073851,15–19,M,Metro,"$150,000+",5,In-person school,No in-person work,Weekday,17
+2000075271,15–19,M,Metro,"$25,000 to $49,999",5,In-person school,No in-person work,Weekday,15
+2000076085,0–4,F,Non-Metro,"$50,000 to $74,999",3,In-person school,No in-person work,Weekday,7
+2000076447,10–14,M,Metro,"$50,000 to $74,999",3,In-person school,No in-person work,Weekday,5
+2000076521,5–9,F,Metro,"$50,000 to $74,999",3,In-person school,No in-person work,Weekday,23
+2000076629,5–9,M,Metro,"$25,000 to $49,999",3,In-person school,No in-person work,Weekday,1
+2000077705,5–9,M,Non-Metro,"$50,000 to $74,999",3,In-person school,No in-person work,Weekday,2
+2000077927,0–4,M,Metro,"$100,000 to $149,999",4,No school,No in-person work,Weekday,3
+2000078611,15–19,F,Metro,"$100,000 to $149,999",6+,In-person school,No in-person work,Weekday,7
+2000079009,0–4,F,Metro,"$50,000 to $74,999",3,In-person school,No in-person work,Weekday,2
+2000079563,15–19,F,Metro,"<$25,000",5,In-person school,No in-person work,Weekday,40
+2000080883,10–14,F,Metro,"$75,000 to $99,999",4,In-person school,No in-person work,Weekday,3
+2000081759,5–9,M,Metro,"$75,000 to $99,999",3,No school,No in-person work,Weekday,4
+2000082027,15–19,F,Metro,"$50,000 to $74,999",4,No school,In-person work,Weekday,7
+2000082579,5–9,F,Metro,"$100,000 to $149,999",4,In-person school,No in-person work,Weekday,10
+2000082871,0–4,F,Metro,"$25,000 to $49,999",3,No school,No in-person work,Weekday,2
+2000082941,5–9,M,Metro,"$25,000 to $49,999",2,In-person school,No in-person work,Weekday,4
+2000083295,0–4,M,Metro,"$150,000+",3,In-person school,No in-person work,Weekday,4
+2000083335,10–14,M,Metro,"$100,000 to $149,999",4,In-person school,No in-person work,Weekday,27
+2000083401,15–19,F,Metro,"$100,000 to $149,999",4,In-person school,No in-person work,Weekday,40
+2000083473,10–14,M,Metro,"$75,000 to $99,999",3,In-person school,No in-person work,Weekday,7
+2000084295,5–9,F,Metro,"$75,000 to $99,999",3,In-person school,No in-person work,Weekday,2
+2000084477,0–4,F,Metro,"<$25,000",4,No school,No in-person work,Weekday,3
+2000085361,5–9,F,Metro,"$25,000 to $49,999",3,No school,No in-person work,Weekday,4
+2000085843,10–14,M,Metro,"$100,000 to $149,999",3,In-person school,No in-person work,Weekday,3
+2000086213,10–14,M,Metro,"$150,000+",4,In-person school,No in-person work,Weekday,4
+2000086225,5–9,M,Metro,"$100,000 to $149,999",4,In-person school,No in-person work,Weekday,3
+2000087617,10–14,M,Metro,"$150,000+",6+,In-person school,No in-person work,Weekday,24
+2000088737,5–9,F,Metro,"$150,000+",6+,In-person school,No in-person work,Weekday,10
+2000088751,10–14,M,Metro,"$25,000 to $49,999",3,No school,No in-person work,Weekday,4
+2000088841,10–14,M,Non-Metro,"<$25,000",6+,Online/Remote,No in-person work,Weekday,26
+2000089093,10–14,M,Metro,"$100,000 to $149,999",6+,In-person school,No in-person work,Weekday,29
+2000089137,5–9,F,Metro,"$100,000 to $149,999",3,In-person school,No in-person work,Weekday,4
+2000089395,5–9,M,Metro,"$25,000 to $49,999",4,In-person school,No in-person work,Weekday,40
+2000089503,5–9,M,Metro,"$75,000 to $99,999",3,In-person school,No in-person work,Weekday,10
+2000089595,0–4,M,Metro,"$75,000 to $99,999",4,No school,No in-person work,Weekday,0
+2000091411,0–4,F,Non-Metro,"<$25,000",4,No school,No in-person work,Weekday,12
+2000091767,10–14,M,Metro,"$50,000 to $74,999",3,No school,In-person work,Weekday,5
+2000091815,5–9,F,Non-Metro,"$100,000 to $149,999",4,In-person school,No in-person work,Weekday,15
+2000091903,5–9,M,Metro,"$75,000 to $99,999",3,In-person school,No in-person work,Weekday,12
+2000091971,10–14,F,Metro,"$150,000+",5,Online/Remote,No in-person work,Weekday,4
+2000092423,10–14,F,Non-Metro,"$50,000 to $74,999",3,No school,No in-person work,Weekday,1
+2000092443,0–4,F,Metro,"<$25,000",3,No school,No in-person work,Weekday,2
+2000092575,0–4,M,Metro,"$100,000 to $149,999",6+,Online/Remote,No in-person work,Weekday,5
+2000093019,5–9,M,Metro,"$100,000 to $149,999",6+,In-person school,No in-person work,Weekday,20
+2000093087,15–19,M,Metro,"$25,000 to $49,999",4,In-person school,No in-person work,Weekday,8
+2000093107,10–14,F,Metro,"$100,000 to $149,999",4,No school,In-person work,Weekday,6
+2000093375,15–19,M,Metro,"$50,000 to $74,999",6+,No school,In-person work,Weekday,9
+2000094997,15–19,F,Metro,"$100,000 to $149,999",3,No school,No in-person work,Weekday,1
+2000095403,5–9,M,Non-Metro,"<$25,000",6+,In-person school,No in-person work,Weekday,1
+2000095969,10–14,M,Non-Metro,"$50,000 to $74,999",2,In-person school,No in-person work,Weekday,12
+2000096033,15–19,F,Metro,"$25,000 to $49,999",4,No school,No in-person work,Weekday,5
+2000096361,0–4,M,Metro,"$75,000 to $99,999",3,No school,No in-person work,Weekday,3
+2000097349,10–14,M,Metro,"$150,000+",4,No school,No in-person work,Weekday,4
+2000097483,5–9,M,Non-Metro,"$50,000 to $74,999",6+,Online/Remote,No in-person work,Weekday,7
+2000097667,10–14,F,Metro,"$150,000+",4,No school,No in-person work,Weekday,5
+2000099233,10–14,M,Non-Metro,"$75,000 to $99,999",4,In-person school,No in-person work,Weekday,3
+2000099697,0–4,M,Metro,"$150,000+",6+,No school,No in-person work,Weekday,1
+2000099767,0–4,M,Metro,"$25,000 to $49,999",4,In-person school,No in-person work,Weekday,6
+2000100243,5–9,M,Non-Metro,"$50,000 to $74,999",3,In-person school,No in-person work,Weekday,6
+2000100459,0–4,M,Metro,"$150,000+",4,No school,No in-person work,Weekday,3
+2000100761,0–4,F,Metro,"<$25,000",3,No school,No in-person work,Weekday,2
+2000100835,10–14,F,Metro,"$25,000 to $49,999",4,No school,No in-person work,Weekday,40
+2000100889,15–19,F,Non-Metro,"$150,000+",5,In-person school,No in-person work,Weekday,12
+2000101303,10–14,F,Metro,"$150,000+",4,In-person school,No in-person work,Weekday,4
+2000101701,5–9,F,Metro,"$50,000 to $74,999",3,No school,No in-person work,Weekday,3
+2000101715,5–9,M,Metro,"<$25,000",4,In-person school,No in-person work,Weekday,3
+2000102041,15–19,F,Metro,"$75,000 to $99,999",3,No school,No in-person work,Weekday,2
+2000102687,10–14,F,Non-Metro,"$150,000+",5,In-person school,In-person work,Weekday,9
+2000102703,10–14,M,Metro,"$50,000 to $74,999",4,No school,No in-person work,Weekday,0
+2000103451,0–4,F,Metro,"$25,000 to $49,999",3,No school,No in-person work,Weekday,2
+2000105307,5–9,M,Metro,"$50,000 to $74,999",6+,In-person school,No in-person work,Weekday,12
+2000105703,10–14,M,Metro,"$50,000 to $74,999",6+,In-person school,No in-person work,Weekday,18
+2000105955,10–14,M,Metro,"$100,000 to $149,999",4,In-person school,In-person work,Weekday,14
+2000106387,5–9,M,Non-Metro,"$25,000 to $49,999",4,Online/Remote,No in-person work,Weekday,6
+2000106535,0–4,M,Metro,"$150,000+",4,In-person school,No in-person work,Weekday,31
+2000106805,5–9,M,Metro,"<$25,000",3,In-person school,No in-person work,Weekday,7
+2000107001,0–4,F,Non-Metro,"$25,000 to $49,999",4,No school,No in-person work,Weekday,4
+2000107447,0–4,M,Metro,"$25,000 to $49,999",5,No school,No in-person work,Weekday,4
+2000108035,0–4,F,Metro,"$75,000 to $99,999",3,No school,No in-person work,Weekday,5
+2000108349,0–4,F,Metro,"$150,000+",4,In-person school,No in-person work,Weekday,15
+2000108681,10–14,M,Metro,"$100,000 to $149,999",5,In-person school,No in-person work,Weekday,14
+2000108813,5–9,F,Metro,"$75,000 to $99,999",4,In-person school,No in-person work,Weekday,27
+2000109239,5–9,M,Non-Metro,"<$25,000",6+,In-person school,No in-person work,Weekday,32
+2000110185,15–19,M,Metro,"$150,000+",6+,In-person school,No in-person work,Weekday,38
+2000110461,0–4,F,Metro,"$50,000 to $74,999",4,No school,No in-person work,Weekday,3
+2000111425,10–14,F,Metro,"$150,000+",4,No school,No in-person work,Weekday,3
+4000012481,65–69,M,Non-Metro,"$50,000 to $74,999",1,No school,No in-person work,Weekday,4
+4000012645,40–44,F,Metro,"<$25,000",3,Online/Remote,No in-person work,Weekday,0
+4000012897,60–64,F,Metro,"$75,000 to $99,999",2,No school,No in-person work,Weekday,2
+4000013047,75+,M,Metro,"$25,000 to $49,999",2,No school,No in-person work,Weekday,3
+4000013273,45–49,M,Metro,"<$25,000",3,No school,In-person work,Weekday,12
+4000013445,25–29,F,Metro,"<$25,000",1,No school,No in-person work,Weekday,0
+4000013449,35–39,F,Metro,"$50,000 to $74,999",4,No school,In-person work,Weekday,3
+4000013463,55–59,M,Metro,"$75,000 to $99,999",1,No school,In-person work,Weekday,1
+4000013615,55–59,M,Metro,"<$25,000",3,No school,No in-person work,Weekday,2
+4000013635,50–54,M,Metro,"$50,000 to $74,999",4,No school,No in-person work,Weekday,2
+4000013673,35–39,M,Metro,"$25,000 to $49,999",3,No school,In-person work,Weekday,12
+4000013915,55–59,F,Non-Metro,"$25,000 to $49,999",3,No school,No in-person work,Weekday,0
+4000014193,35–39,M,Metro,"$50,000 to $74,999",5,No school,No in-person work,Weekday,7
+4000014271,35–39,M,Metro,"<$25,000",2,No school,No in-person work,Weekday,0
+4000014275,30–34,F,Metro,"<$25,000",2,No school,No in-person work,Weekday,1
+4000014307,40–44,F,Metro,"<$25,000",5,No school,No in-person work,Weekday,4
+4000014433,70–74,F,Metro,"$100,000 to $149,999",2,No school,No in-person work,Weekday,1
+4000014495,60–64,F,Metro,"$25,000 to $49,999",2,No school,No in-person work,Weekday,1
+4000014661,55–59,M,Metro,"$75,000 to $99,999",4,No school,No in-person work,Weekday,2
+4000014759,65–69,F,Metro,"$25,000 to $49,999",1,No school,No in-person work,Weekday,0
+4000014907,75+,F,Non-Metro,"<$25,000",1,No school,No in-person work,Weekday,5
+4000014945,25–29,F,Metro,"$75,000 to $99,999",3,No school,In-person work,Weekday,11
+4000014957,60–64,M,Metro,"$100,000 to $149,999",2,No school,In-person work,Weekday,7
+4000015041,75+,F,Metro,"$50,000 to $74,999",2,No school,No in-person work,Weekday,1
+4000015051,20–24,F,Metro,"$100,000 to $149,999",3,Online/Remote,In-person work,Weekday,12
+4000015053,75+,M,Metro,"$75,000 to $99,999",3,Online/Remote,In-person work,Weekday,3
+4000015133,60–64,F,Metro,"<$25,000",2,No school,No in-person work,Weekday,2
+4000015627,20–24,F,Non-Metro,"$150,000+",1,No school,No in-person work,Weekday,0
+4000015721,65–69,F,Metro,"<$25,000",1,No school,No in-person work,Weekday,5
+4000016007,50–54,F,Non-Metro,"<$25,000",2,No school,No in-person work,Weekday,1
+4000016057,60–64,M,Metro,"$100,000 to $149,999",3,No school,No in-person work,Weekday,0
+4000016131,60–64,M,Metro,"$100,000 to $149,999",3,No school,No in-person work,Weekday,1
+4000016143,65–69,M,Metro,"$50,000 to $74,999",2,No school,No in-person work,Weekday,2
+4000016233,40–44,M,Non-Metro,"$25,000 to $49,999",4,No school,No in-person work,Weekday,8
+4000016395,70–74,M,Metro,"$150,000+",2,No school,In-person work,Weekday,11
+4000016459,50–54,F,Metro,"$100,000 to $149,999",3,No school,No in-person work,Weekday,4
+4000016589,55–59,F,Non-Metro,"$25,000 to $49,999",2,No school,In-person work,Weekday,7
+4000016671,25–29,F,Metro,"$50,000 to $74,999",1,No school,No in-person work,Weekday,0
+4000016743,40–44,F,Metro,"$50,000 to $74,999",1,No school,No in-person work,Weekday,2
+4000017011,35–39,M,Metro,"$75,000 to $99,999",4,No school,In-person work,Weekday,12
+4000017033,25–29,M,Metro,"$50,000 to $74,999",2,No school,No in-person work,Weekday,1
+4000017199,65–69,M,Non-Metro,"$50,000 to $74,999",3,No school,No in-person work,Weekday,2
+4000017201,45–49,F,Metro,"$50,000 to $74,999",2,No school,No in-person work,Weekday,1
+4000017277,60–64,M,Metro,"$75,000 to $99,999",2,No school,No in-person work,Weekday,3
+4000017667,70–74,F,Metro,"$25,000 to $49,999",1,No school,No in-person work,Weekday,2
+4000017853,55–59,M,Metro,"$75,000 to $99,999",1,No school,In-person work,Weekday,4
+4000017951,35–39,F,Metro,"$25,000 to $49,999",4,No school,No in-person work,Weekday,3
+4000018077,50–54,M,Metro,"$25,000 to $49,999",4,No school,No in-person work,Weekday,4
+4000018181,40–44,F,Metro,"$100,000 to $149,999",4,No school,No in-person work,Weekday,6
+4000018183,60–64,F,Non-Metro,"$100,000 to $149,999",2,No school,In-person work,Weekday,2
+4000018307,35–39,M,Metro,"<$25,000",4,In-person school,No in-person work,Weekday,4
+4000018479,45–49,F,Metro,"$75,000 to $99,999",2,No school,No in-person work,Weekday,2
+4000018497,65–69,M,Non-Metro,"<$25,000",1,No school,No in-person work,Weekday,0
+4000018657,45–49,F,Metro,"$50,000 to $74,999",4,No school,No in-person work,Weekday,7
+4000018781,30–34,M,Metro,"$75,000 to $99,999",3,No school,In-person work,Weekday,27
+4000018797,75+,M,Non-Metro,"$50,000 to $74,999",2,No school,No in-person work,Weekday,3
+4000019121,75+,F,Metro,"$25,000 to $49,999",2,No school,No in-person work,Weekday,3
+4000019241,35–39,F,Metro,"<$25,000",1,No school,No in-person work,Weekday,0
+4000019475,30–34,F,Metro,"<$25,000",4,No school,In-person work,Weekday,3
+4000019577,45–49,M,Metro,"<$25,000",2,No school,No in-person work,Weekday,0
+4000019673,70–74,F,Metro,"$25,000 to $49,999",2,No school,No in-person work,Weekday,3
+4000019749,45–49,F,Non-Metro,"$50,000 to $74,999",3,No school,No in-person work,Weekday,2
+4000020231,35–39,M,Non-Metro,"<$25,000",1,No school,No in-person work,Weekday,0
+4000020301,50–54,F,Metro,"$75,000 to $99,999",2,No school,No in-person work,Weekday,2
+4000020465,35–39,F,Metro,"$75,000 to $99,999",4,No school,In-person work,Weekday,4
+4000020653,35–39,F,Metro,"$100,000 to $149,999",4,No school,No in-person work,Weekday,1
+4000021127,50–54,M,Metro,"<$25,000",3,No school,No in-person work,Weekday,1
+4000021169,55–59,F,Metro,"$50,000 to $74,999",5,No school,In-person work,Weekday,10
+4000021349,55–59,M,Metro,"$100,000 to $149,999",3,No school,No in-person work,Weekday,5
+4000021391,45–49,F,Non-Metro,"$25,000 to $49,999",2,No school,No in-person work,Weekday,1
+4000021553,30–34,F,Metro,"$100,000 to $149,999",4,Online/Remote,In-person work,Weekday,3
+4000021625,45–49,F,Metro,"$100,000 to $149,999",4,No school,No in-person work,Weekday,3
+4000021775,60–64,F,Metro,"$75,000 to $99,999",2,No school,No in-person work,Weekday,4
+4000021787,35–39,M,Metro,"<$25,000",4,No school,No in-person work,Weekday,0
+4000021839,75+,F,Metro,"$100,000 to $149,999",2,No school,No in-person work,Weekday,5
+4000022049,75+,M,Non-Metro,"$75,000 to $99,999",2,No school,No in-person work,Weekday,4
+4000022317,50–54,F,Metro,"$50,000 to $74,999",2,No school,No in-person work,Weekday,3
+4000022549,55–59,F,Metro,"$50,000 to $74,999",1,No school,No in-person work,Weekday,0
+4000022561,35–39,M,Metro,"$150,000+",4,Online/Remote,In-person work,Weekday,34
+4000022599,35–39,M,Metro,"$75,000 to $99,999",1,No school,In-person work,Weekday,10
+4000022705,55–59,F,Metro,"<$25,000",1,No school,No in-person work,Weekday,3
+4000022793,35–39,M,Metro,"$75,000 to $99,999",3,No school,In-person work,Weekday,5
+4000022823,60–64,M,Metro,"<$25,000",1,No school,No in-person work,Weekday,0
+4000023201,45–49,F,Non-Metro,"$50,000 to $74,999",2,No school,No in-person work,Weekday,3
+4000023479,60–64,F,Metro,"$100,000 to $149,999",2,No school,In-person work,Weekday,19
+4000023745,70–74,M,Metro,"<$25,000",2,No school,No in-person work,Weekday,0
+4000023867,60–64,M,Metro,"$75,000 to $99,999",2,No school,No in-person work,Weekday,1
+4000023921,70–74,F,Metro,"$75,000 to $99,999",2,No school,No in-person work,Weekday,4
+4000023945,40–44,F,Metro,"$150,000+",3,No school,In-person work,Weekday,9
+4000024071,50–54,M,Metro,"$25,000 to $49,999",4,No school,In-person work,Weekday,4
+4000024083,65–69,M,Non-Metro,"$25,000 to $49,999",1,No school,No in-person work,Weekday,12
+4000024383,50–54,M,Non-Metro,"$50,000 to $74,999",4,No school,In-person work,Weekday,7
+4000024729,60–64,F,Non-Metro,"$75,000 to $99,999",6+,No school,No in-person work,Weekday,5
+4000024945,40–44,M,Metro,"$150,000+",5,No school,No in-person work,Weekday,4
+4000025025,50–54,M,Metro,"$100,000 to $149,999",2,No school,In-person work,Weekday,40
+4000025151,25–29,F,Metro,"<$25,000",2,No school,No in-person work,Weekday,3
+4000025331,65–69,F,Metro,"$75,000 to $99,999",2,No school,In-person work,Weekday,0
+4000025471,75+,F,Metro,"<$25,000",1,No school,No in-person work,Weekday,5
+4000025493,75+,F,Metro,"$25,000 to $49,999",1,No school,No in-person work,Weekday,0
+4000025623,25–29,M,Metro,"$50,000 to $74,999",5,No school,No in-person work,Weekday,0
+4000026475,55–59,M,Metro,"$75,000 to $99,999",3,No school,No in-person work,Weekday,1
+4000026553,30–34,F,Metro,"$150,000+",3,No school,No in-person work,Weekday,3
+4000026611,50–54,M,Metro,"$50,000 to $74,999",2,No school,In-person work,Weekday,7
+4000026855,75+,M,Metro,"$100,000 to $149,999",2,No school,No in-person work,Weekday,1
+4000026873,35–39,M,Metro,"$75,000 to $99,999",5,No school,In-person work,Weekday,6
+4000026893,60–64,F,Metro,"$100,000 to $149,999",2,No school,No in-person work,Weekday,1
+4000026997,70–74,F,Metro,"$25,000 to $49,999",1,No school,No in-person work,Weekday,3
+4000027037,60–64,F,Metro,"$100,000 to $149,999",2,No school,No in-person work,Weekday,40
+4000027349,60–64,M,Non-Metro,"$25,000 to $49,999",1,No school,In-person work,Weekday,3
+4000027375,35–39,F,Metro,"<$25,000",4,No school,No in-person work,Weekday,3
+4000027655,35–39,F,Metro,"$75,000 to $99,999",5,No school,No in-person work,Weekday,6
+4000028123,55–59,F,Non-Metro,"$25,000 to $49,999",2,No school,No in-person work,Weekday,2
+4000028227,75+,F,Metro,"<$25,000",1,No school,No in-person work,Weekday,5
+4000028307,30–34,M,Metro,"$50,000 to $74,999",5,No school,In-person work,Weekday,6
+4000028721,50–54,M,Metro,"<$25,000",5,No school,No in-person work,Weekday,3
+4000028741,40–44,M,Metro,"$100,000 to $149,999",3,No school,No in-person work,Weekday,2
+4000028947,40–44,M,Non-Metro,"<$25,000",5,No school,No in-person work,Weekday,3
+4000029211,15–19,F,Metro,"$75,000 to $99,999",5,No school,In-person work,Weekday,3
+4000029275,55–59,F,Metro,"$50,000 to $74,999",2,No school,No in-person work,Weekday,0
+4000029769,60–64,M,Metro,"$150,000+",2,No school,No in-person work,Weekday,3
+4000029805,75+,F,Metro,"$75,000 to $99,999",2,No school,No in-person work,Weekday,3
+4000029879,20–24,F,Metro,"$25,000 to $49,999",3,No school,In-person work,Weekday,22
+4000030179,50–54,F,Metro,"$25,000 to $49,999",2,No school,No in-person work,Weekday,3
+4000030323,35–39,F,Metro,"$25,000 to $49,999",5,No school,No in-person work,Weekday,4
+4000030343,75+,F,Metro,"$150,000+",1,No school,No in-person work,Weekday,1
+4000030511,40–44,M,Metro,"<$25,000",1,No school,No in-person work,Weekday,0
+4000030617,60–64,F,Non-Metro,"$75,000 to $99,999",1,No school,No in-person work,Weekday,3
+4000030849,65–69,M,Metro,"$100,000 to $149,999",2,No school,In-person work,Weekday,7
+4000030941,60–64,F,Metro,"$100,000 to $149,999",2,No school,No in-person work,Weekday,1
+4000030981,70–74,F,Metro,"$25,000 to $49,999",2,No school,No in-person work,Weekday,1
+4000031063,75+,M,Metro,"$75,000 to $99,999",2,No school,No in-person work,Weekday,3
+4000031153,40–44,F,Metro,"$150,000+",5,No school,No in-person work,Weekday,4
+4000031261,60–64,F,Metro,"$100,000 to $149,999",3,No school,No in-person work,Weekday,2
+4000031287,50–54,F,Metro,"$150,000+",5,No school,In-person work,Weekday,9
+4000031323,50–54,M,Metro,"$100,000 to $149,999",2,No school,No in-person work,Weekday,1
+4000031361,50–54,F,Metro,"$100,000 to $149,999",2,No school,No in-person work,Weekday,1
+4000031447,25–29,M,Metro,"$25,000 to $49,999",2,No school,In-person work,Weekday,25
+4000031709,70–74,M,Metro,"$25,000 to $49,999",2,No school,In-person work,Weekday,6
+4000031749,55–59,F,Metro,"$100,000 to $149,999",2,No school,No in-person work,Weekday,1
+4000032121,60–64,F,Metro,"$25,000 to $49,999",2,No school,No in-person work,Weekday,1
+4000032187,45–49,M,Metro,"$50,000 to $74,999",3,No school,No in-person work,Weekday,2
+4000032203,50–54,F,Metro,"$25,000 to $49,999",3,No school,No in-person work,Weekday,1
+4000032365,70–74,M,Non-Metro,"$50,000 to $74,999",2,No school,No in-person work,Weekday,1
+4000032485,60–64,M,Non-Metro,"$25,000 to $49,999",2,No school,No in-person work,Weekday,8
+4000032625,35–39,M,Metro,"$100,000 to $149,999",2,No school,In-person work,Weekday,8
+4000032733,65–69,F,Metro,"$50,000 to $74,999",2,No school,No in-person work,Weekday,3
+4000032863,60–64,M,Metro,"$150,000+",3,No school,No in-person work,Weekday,2
+4000032981,65–69,M,Metro,"$50,000 to $74,999",2,No school,In-person work,Weekday,2
+4000033081,60–64,F,Metro,"$25,000 to $49,999",3,No school,No in-person work,Weekday,4
+4000033241,65–69,F,Metro,"<$25,000",1,No school,No in-person work,Weekday,1
+4000033249,70–74,F,Metro,"$100,000 to $149,999",2,No school,No in-person work,Weekday,2
+4000033287,50–54,M,Non-Metro,"$25,000 to $49,999",3,No school,In-person work,Weekday,0
+4000033355,45–49,M,Non-Metro,"$25,000 to $49,999",1,No school,No in-person work,Weekday,2
+4000033453,45–49,M,Metro,"$50,000 to $74,999",4,No school,In-person work,Weekday,2
+4000033455,55–59,M,Metro,"$50,000 to $74,999",2,No school,No in-person work,Weekday,1
+4000033459,30–34,F,Metro,"$50,000 to $74,999",3,Online/Remote,No in-person work,Weekday,3
+4000033555,75+,F,Metro,"$25,000 to $49,999",1,No school,No in-person work,Weekday,5
+4000033631,40–44,F,Metro,"<$25,000",4,No school,In-person work,Weekday,5
+4000034033,40–44,F,Metro,"$50,000 to $74,999",4,No school,No in-person work,Weekday,4
+4000034141,35–39,F,Metro,"$75,000 to $99,999",2,No school,In-person work,Weekday,11
+4000034315,70–74,F,Metro,"<$25,000",1,No school,No in-person work,Weekday,0
+4000034617,55–59,M,Metro,"$75,000 to $99,999",2,No school,No in-person work,Weekday,3
+4000034897,55–59,F,Non-Metro,"$25,000 to $49,999",2,No school,In-person work,Weekday,1
+4000035179,75+,M,Metro,"$50,000 to $74,999",3,No school,No in-person work,Weekday,1
+4000035243,30–34,F,Non-Metro,"$75,000 to $99,999",3,In-person school,In-person work,Weekday,4
+4000035303,40–44,F,Metro,"<$25,000",3,No school,No in-person work,Weekday,8
+4000035405,30–34,F,Metro,"$150,000+",5,No school,No in-person work,Weekday,4
+4000035661,70–74,M,Metro,"$25,000 to $49,999",1,No school,No in-person work,Weekday,0
+4000035675,40–44,F,Metro,"$25,000 to $49,999",2,No school,No in-person work,Weekday,2
+4000035763,65–69,M,Metro,"$75,000 to $99,999",2,No school,In-person work,Weekday,7
+4000035811,30–34,M,Metro,"$100,000 to $149,999",6+,No school,No in-person work,Weekday,4
+4000036075,30–34,M,Non-Metro,"$150,000+",3,No school,No in-person work,Weekday,4
+4000036139,40–44,F,Metro,"$50,000 to $74,999",2,No school,In-person work,Weekday,1
+4000036487,35–39,F,Metro,"$150,000+",6+,No school,In-person work,Weekday,13
+4000036597,65–69,F,Metro,"$100,000 to $149,999",2,No school,No in-person work,Weekday,3
+4000036601,55–59,F,Metro,"$25,000 to $49,999",2,No school,No in-person work,Weekday,3
+4000036683,60–64,M,Metro,"<$25,000",1,No school,No in-person work,Weekday,1
+4000036743,50–54,F,Metro,"$25,000 to $49,999",2,No school,In-person work,Weekday,4
+4000036803,45–49,F,Non-Metro,"<$25,000",2,No school,No in-person work,Weekday,4
+4000036927,70–74,M,Non-Metro,"$50,000 to $74,999",2,No school,No in-person work,Weekday,6
+4000036933,65–69,F,Metro,"$50,000 to $74,999",2,No school,No in-person work,Weekday,9
+4000036947,70–74,M,Metro,"$75,000 to $99,999",2,No school,No in-person work,Weekday,6
+4000036967,70–74,F,Metro,"$50,000 to $74,999",3,No school,No in-person work,Weekday,1
+4000037021,30–34,F,Metro,"$25,000 to $49,999",2,No school,No in-person work,Weekday,1
+4000037073,35–39,F,Non-Metro,"<$25,000",1,No school,No in-person work,Weekday,0
+4000037087,75+,F,Metro,"$75,000 to $99,999",4,No school,No in-person work,Weekday,2
+4000037139,65–69,F,Metro,"$25,000 to $49,999",1,No school,No in-person work,Weekday,0
+4000037207,55–59,M,Non-Metro,"$75,000 to $99,999",3,No school,In-person work,Weekday,2
+4000037215,65–69,M,Metro,"<$25,000",1,No school,No in-person work,Weekday,5
+4000037275,50–54,M,Metro,"$150,000+",4,No school,In-person work,Weekday,13
+4000037789,40–44,F,Metro,"$50,000 to $74,999",4,No school,No in-person work,Weekday,5
+4000037977,75+,F,Metro,"$50,000 to $74,999",1,No school,No in-person work,Weekday,5
+4000037997,35–39,F,Metro,"<$25,000",3,No school,No in-person work,Weekday,2
+4000038049,25–29,M,Metro,"$50,000 to $74,999",2,No school,In-person work,Weekday,5
+4000038147,75+,M,Metro,"$100,000 to $149,999",3,No school,No in-person work,Weekday,1
+4000038223,65–69,M,Metro,"$25,000 to $49,999",2,No school,No in-person work,Weekday,2
+4000038247,70–74,F,Non-Metro,"$25,000 to $49,999",2,No school,No in-person work,Weekday,1
+4000038393,40–44,F,Metro,"$50,000 to $74,999",3,Online/Remote,In-person work,Weekday,40
+4000038397,20–24,M,Metro,"$25,000 to $49,999",1,In-person school,In-person work,Weekday,6
+4000038431,35–39,M,Metro,"<$25,000",2,No school,No in-person work,Weekday,0
+4000038493,25–29,F,Metro,"$25,000 to $49,999",3,No school,No in-person work,Weekday,1
+4000038543,65–69,M,Metro,"$25,000 to $49,999",1,No school,No in-person work,Weekday,0
+4000038571,40–44,F,Non-Metro,"<$25,000",4,No school,No in-person work,Weekday,5
+4000038593,60–64,M,Metro,"$100,000 to $149,999",3,No school,In-person work,Weekday,1
+4000038699,25–29,F,Non-Metro,"$50,000 to $74,999",2,No school,No in-person work,Weekday,1
+4000038871,75+,M,Metro,"$50,000 to $74,999",2,No school,No in-person work,Weekday,0
+4000038879,55–59,F,Non-Metro,"<$25,000",2,No school,No in-person work,Weekday,0
+4000038897,30–34,F,Metro,"$25,000 to $49,999",4,No school,In-person work,Weekday,18
+4000039139,65–69,F,Metro,"$150,000+",1,No school,No in-person work,Weekday,2
+4000039157,55–59,M,Metro,"$25,000 to $49,999",2,No school,In-person work,Weekday,12
+4000039159,75+,F,Non-Metro,"<$25,000",2,No school,No in-person work,Weekday,11
+4000039167,35–39,M,Metro,"$100,000 to $149,999",4,No school,No in-person work,Weekday,0
+4000039215,75+,F,Metro,"$75,000 to $99,999",2,No school,No in-person work,Weekday,2
+4000039231,35–39,M,Metro,"$100,000 to $149,999",4,No school,No in-person work,Weekday,18
+4000039371,30–34,M,Metro,"$25,000 to $49,999",1,No school,In-person work,Weekday,6
+4000039627,70–74,F,Metro,"$25,000 to $49,999",2,No school,No in-person work,Weekday,1
+4000039789,75+,F,Metro,"$25,000 to $49,999",2,No school,No in-person work,Weekday,1
+4000039873,45–49,M,Metro,"$50,000 to $74,999",2,No school,No in-person work,Weekday,1
+4000039909,65–69,F,Metro,"$50,000 to $74,999",2,No school,No in-person work,Weekday,1
+4000039975,50–54,F,Metro,"$100,000 to $149,999",2,No school,No in-person work,Weekday,5
+4000040039,15–19,F,Metro,"$100,000 to $149,999",6+,In-person school,No in-person work,Weekday,7
+4000040133,45–49,F,Non-Metro,"<$25,000",3,No school,In-person work,Weekday,5
+4000040147,55–59,M,Metro,"$25,000 to $49,999",2,No school,No in-person work,Weekday,0
+4000040199,20–24,F,Metro,"<$25,000",1,In-person school,No in-person work,Weekday,12
+4000040277,35–39,F,Non-Metro,"<$25,000",2,No school,No in-person work,Weekday,0
+4000040477,45–49,M,Metro,"$75,000 to $99,999",1,No school,In-person work,Weekday,3
+4000040815,50–54,F,Metro,"$50,000 to $74,999",1,No school,No in-person work,Weekday,3
+4000040979,45–49,M,Metro,"$25,000 to $49,999",1,No school,No in-person work,Weekday,0
+4000040991,40–44,M,Metro,"$50,000 to $74,999",2,No school,In-person work,Weekday,4
+4000041415,65–69,F,Metro,"$25,000 to $49,999",1,No school,No in-person work,Weekday,4
+4000041511,45–49,M,Non-Metro,"$75,000 to $99,999",4,No school,No in-person work,Weekday,3
+4000041617,60–64,F,Non-Metro,"$75,000 to $99,999",2,No school,No in-person work,Weekday,17
+4000041837,25–29,F,Metro,"<$25,000",2,No school,No in-person work,Weekday,0
+4000042225,60–64,F,Metro,"$50,000 to $74,999",1,No school,No in-person work,Weekday,1
+4000042227,50–54,F,Metro,"$25,000 to $49,999",2,No school,In-person work,Weekday,2
+4000042569,75+,M,Metro,"$50,000 to $74,999",2,No school,No in-person work,Weekday,6
+4000042601,75+,M,Metro,"$25,000 to $49,999",3,No school,No in-person work,Weekday,0
+4000042745,60–64,M,Metro,"<$25,000",2,No school,No in-person work,Weekday,0
+4000042747,45–49,M,Metro,"$50,000 to $74,999",3,No school,In-person work,Weekday,6
+4000042855,75+,M,Non-Metro,"$50,000 to $74,999",2,No school,No in-person work,Weekday,5
+4000042915,75+,F,Metro,"$50,000 to $74,999",4,No school,No in-person work,Weekday,2
+4000043157,65–69,M,Metro,"$50,000 to $74,999",2,No school,No in-person work,Weekday,5
+4000043405,55–59,M,Metro,"$150,000+",2,No school,In-person work,Weekday,13
+4000043423,70–74,F,Non-Metro,"$25,000 to $49,999",3,No school,No in-person work,Weekday,1
+4000043485,60–64,M,Metro,"$50,000 to $74,999",4,Online/Remote,In-person work,Weekday,6
+4000043505,35–39,M,Metro,"$50,000 to $74,999",6+,No school,No in-person work,Weekday,2
+4000043521,75+,M,Metro,"$150,000+",2,No school,No in-person work,Weekday,7
+4000043661,45–49,M,Metro,"$100,000 to $149,999",5,Online/Remote,In-person work,Weekday,11
+4000044241,75+,M,Metro,"$50,000 to $74,999",2,No school,No in-person work,Weekday,1
+4000044339,40–44,F,Metro,"$50,000 to $74,999",2,No school,In-person work,Weekday,3
+4000044349,60–64,F,Metro,"<$25,000",1,No school,No in-person work,Weekday,2
+4000044717,45–49,M,Non-Metro,"$25,000 to $49,999",1,No school,No in-person work,Weekday,3
+4000044891,55–59,M,Non-Metro,"$50,000 to $74,999",6+,No school,No in-person work,Weekday,4
+4000045013,15–19,M,Metro,"$75,000 to $99,999",4,In-person school,No in-person work,Weekday,10
+4000045205,50–54,F,Non-Metro,"$100,000 to $149,999",3,No school,No in-person work,Weekday,0
+4000045247,45–49,M,Metro,"<$25,000",6+,No school,No in-person work,Weekday,15
+4000045575,70–74,F,Non-Metro,"$75,000 to $99,999",3,No school,No in-person work,Weekday,1
+4000045611,35–39,F,Metro,"<$25,000",4,No school,No in-person work,Weekday,3
+4000045679,15–19,M,Metro,"<$25,000",2,No school,No in-person work,Weekday,1
+4000045713,55–59,M,Non-Metro,"$25,000 to $49,999",2,No school,No in-person work,Weekday,0
+4000045763,40–44,F,Non-Metro,"$100,000 to $149,999",6+,No school,In-person work,Weekday,9
+4000045871,40–44,F,Non-Metro,"$75,000 to $99,999",4,No school,No in-person work,Weekday,4
+4000046069,65–69,M,Metro,"$75,000 to $99,999",2,No school,No in-person work,Weekday,9
+4000046173,35–39,F,Metro,"$50,000 to $74,999",2,No school,In-person work,Weekday,1
+4000046217,40–44,F,Non-Metro,"$50,000 to $74,999",2,No school,No in-person work,Weekday,1
+4000046227,60–64,F,Metro,"$25,000 to $49,999",2,No school,No in-person work,Weekday,0
+4000046321,40–44,F,Non-Metro,"<$25,000",2,No school,In-person work,Weekday,3
+4000046361,75+,F,Metro,"$25,000 to $49,999",1,No school,No in-person work,Weekday,6
+4000046377,30–34,F,Metro,"$25,000 to $49,999",6+,No school,In-person work,Weekday,8
+4000046577,45–49,F,Non-Metro,"<$25,000",1,No school,No in-person work,Weekday,0
+4000046639,60–64,F,Metro,"$50,000 to $74,999",1,No school,No in-person work,Weekday,3
+4000046679,40–44,F,Non-Metro,"$25,000 to $49,999",4,No school,No in-person work,Weekday,2
+4000046713,45–49,M,Metro,"$50,000 to $74,999",3,No school,In-person work,Weekday,3
+4000046897,65–69,M,Non-Metro,"$50,000 to $74,999",3,No school,No in-person work,Weekday,1
+4000046943,20–24,F,Metro,"<$25,000",2,No school,No in-person work,Weekday,0
+4000047161,25–29,M,Metro,"$100,000 to $149,999",4,No school,In-person work,Weekday,5
+4000047165,75+,M,Metro,"$50,000 to $74,999",2,No school,No in-person work,Weekday,1
+4000047405,55–59,F,Metro,"$50,000 to $74,999",2,No school,In-person work,Weekday,8
+4000047611,65–69,M,Metro,"$25,000 to $49,999",1,No school,No in-person work,Weekday,0
+4000047625,65–69,F,Metro,"$25,000 to $49,999",4,No school,No in-person work,Weekday,2
+4000047679,75+,F,Metro,"$50,000 to $74,999",3,No school,No in-person work,Weekday,4
+4000047761,55–59,M,Metro,"$25,000 to $49,999",3,No school,No in-person work,Weekday,0
+4000048143,35–39,F,Metro,"$25,000 to $49,999",4,No school,No in-person work,Weekday,7
+4000048183,35–39,F,Metro,"$50,000 to $74,999",3,No school,No in-person work,Weekday,5
+4000048265,55–59,M,Metro,"$50,000 to $74,999",2,No school,No in-person work,Weekday,1
+4000048325,65–69,M,Metro,"$25,000 to $49,999",2,No school,No in-person work,Weekday,1
+4000048361,35–39,F,Metro,"$100,000 to $149,999",3,No school,No in-person work,Weekday,2
+4000048363,65–69,M,Non-Metro,"$25,000 to $49,999",2,No school,No in-person work,Weekday,1
+4000048409,45–49,F,Metro,"<$25,000",1,No school,No in-person work,Weekday,0
+4000048451,40–44,F,Metro,"<$25,000",2,No school,No in-person work,Weekday,0
+4000048625,50–54,M,Metro,"$25,000 to $49,999",4,No school,No in-person work,Weekday,9
+4000048703,30–34,M,Metro,"$25,000 to $49,999",2,No school,In-person work,Weekday,5
+4000049113,60–64,M,Non-Metro,"$75,000 to $99,999",2,No school,In-person work,Weekday,10
+4000049135,35–39,M,Metro,"$25,000 to $49,999",2,Online/Remote,In-person work,Weekday,14
+4000049173,60–64,F,Non-Metro,"$150,000+",2,No school,No in-person work,Weekday,1
+4000049295,60–64,M,Metro,"<$25,000",2,Online/Remote,No in-person work,Weekday,2
+4000049457,60–64,F,Metro,"<$25,000",3,Online/Remote,No in-person work,Weekday,2
+4000049765,60–64,F,Metro,"$100,000 to $149,999",3,No school,No in-person work,Weekday,10
+4000049851,20–24,F,Non-Metro,"$100,000 to $149,999",5,Online/Remote,In-person work,Weekday,24
+4000049915,40–44,F,Metro,"<$25,000",3,No school,No in-person work,Weekday,5
+4000050227,30–34,F,Metro,"$50,000 to $74,999",1,No school,In-person work,Weekday,40
+4000050229,35–39,M,Metro,"$50,000 to $74,999",6+,No school,In-person work,Weekday,4
+4000050501,60–64,M,Metro,"$50,000 to $74,999",2,No school,No in-person work,Weekday,4
+4000050581,35–39,M,Metro,"$75,000 to $99,999",2,No school,No in-person work,Weekday,0
+4000051335,55–59,M,Metro,"$25,000 to $49,999",1,No school,No in-person work,Weekday,5
+4000051479,20–24,F,Non-Metro,"<$25,000",6+,No school,No in-person work,Weekday,8
+4000051507,55–59,F,Metro,"<$25,000",3,No school,No in-person work,Weekday,2
+4000051563,25–29,M,Metro,"$50,000 to $74,999",2,No school,In-person work,Weekday,2
+4000051629,40–44,F,Metro,"$25,000 to $49,999",3,No school,No in-person work,Weekday,1
+4000051675,25–29,M,Metro,"$50,000 to $74,999",2,No school,No in-person work,Weekday,1
+4000051683,60–64,F,Non-Metro,"$75,000 to $99,999",2,No school,No in-person work,Weekday,8
+4000051797,45–49,M,Non-Metro,"$100,000 to $149,999",4,No school,No in-person work,Weekday,5
+4000052041,45–49,F,Metro,"$50,000 to $74,999",3,No school,No in-person work,Weekday,2
+4000052235,50–54,M,Metro,"$100,000 to $149,999",4,No school,In-person work,Weekday,7
+4000052249,20–24,M,Metro,"$50,000 to $74,999",3,No school,In-person work,Weekday,2
+4000052251,45–49,M,Metro,"$100,000 to $149,999",5,No school,In-person work,Weekday,7
+4000052357,25–29,M,Non-Metro,"$50,000 to $74,999",3,No school,In-person work,Weekday,6
+4000052471,45–49,F,Non-Metro,"$75,000 to $99,999",2,Online/Remote,In-person work,Weekday,32
+4000052509,60–64,F,Non-Metro,"$75,000 to $99,999",3,No school,In-person work,Weekday,4
+4000052543,55–59,M,Metro,"$100,000 to $149,999",3,No school,No in-person work,Weekday,1
+4000052749,70–74,F,Metro,"$25,000 to $49,999",1,No school,No in-person work,Weekday,0
+4000052875,40–44,F,Non-Metro,"<$25,000",2,No school,No in-person work,Weekday,0
+4000052937,20–24,F,Metro,"<$25,000",1,No school,No in-person work,Weekday,0
+4000053079,50–54,F,Metro,"<$25,000",4,No school,No in-person work,Weekday,2
+4000053135,45–49,F,Metro,"$50,000 to $74,999",2,In-person school,In-person work,Weekday,1
+4000053273,25–29,M,Metro,"$25,000 to $49,999",5,No school,In-person work,Weekday,9
+4000053335,25–29,M,Non-Metro,"<$25,000",1,No school,In-person work,Weekday,18
+4000053347,65–69,F,Metro,"$25,000 to $49,999",2,No school,No in-person work,Weekday,0
+4000053561,40–44,F,Metro,"<$25,000",4,No school,No in-person work,Weekday,5
+4000053729,50–54,M,Metro,"$75,000 to $99,999",1,No school,No in-person work,Weekday,5
+4000053881,40–44,M,Metro,"<$25,000",1,No school,No in-person work,Weekday,0
+4000053965,35–39,F,Metro,"<$25,000",4,No school,No in-person work,Weekday,3
+4000054099,60–64,F,Metro,"$25,000 to $49,999",2,No school,No in-person work,Weekday,0
+4000054293,45–49,F,Metro,"$50,000 to $74,999",2,No school,No in-person work,Weekday,1
+4000054311,75+,M,Non-Metro,"$75,000 to $99,999",1,No school,No in-person work,Weekday,0
+4000054447,45–49,F,Non-Metro,"<$25,000",1,No school,No in-person work,Weekday,0
+4000054475,75+,F,Metro,"$150,000+",1,No school,No in-person work,Weekday,0
+4000054505,20–24,M,Metro,"<$25,000",3,In-person school,In-person work,Weekday,9
+4000054581,45–49,M,Non-Metro,"<$25,000",2,No school,No in-person work,Weekday,0
+4000054757,25–29,F,Non-Metro,"<$25,000",3,No school,No in-person work,Weekday,2
+4000054855,50–54,M,Metro,"$50,000 to $74,999",3,No school,No in-person work,Weekday,2
+4000055049,50–54,F,Metro,"$100,000 to $149,999",2,No school,In-person work,Weekday,4
+4000055087,35–39,F,Metro,"$75,000 to $99,999",5,No school,No in-person work,Weekday,8
+4000055489,30–34,M,Metro,"$50,000 to $74,999",3,No school,In-person work,Weekday,8
+4000055561,50–54,F,Metro,"$25,000 to $49,999",2,No school,No in-person work,Weekday,4
+4000055581,60–64,M,Metro,"<$25,000",1,No school,No in-person work,Weekday,0
+4000055739,50–54,F,Metro,"$50,000 to $74,999",3,No school,In-person work,Weekday,9
+4000055765,40–44,M,Non-Metro,"<$25,000",3,No school,In-person work,Weekday,4
+4000056009,70–74,F,Non-Metro,"$25,000 to $49,999",2,No school,No in-person work,Weekday,2
+4000056021,75+,F,Metro,"$150,000+",2,No school,No in-person work,Weekday,1
+4000056229,55–59,F,Non-Metro,"$75,000 to $99,999",4,No school,No in-person work,Weekday,6
+4000056335,60–64,M,Metro,"<$25,000",1,No school,No in-person work,Weekday,0
+4000056555,35–39,F,Metro,"$25,000 to $49,999",2,No school,No in-person work,Weekday,2
+4000056825,45–49,M,Non-Metro,"$75,000 to $99,999",1,No school,In-person work,Weekday,9
+4000056853,45–49,F,Metro,"$100,000 to $149,999",1,No school,No in-person work,Weekday,1
+4000056979,20–24,F,Non-Metro,"<$25,000",4,No school,In-person work,Weekday,5
+4000057001,65–69,F,Metro,"<$25,000",1,No school,No in-person work,Weekday,0
+4000057051,75+,F,Metro,"$75,000 to $99,999",2,No school,No in-person work,Weekday,1
+4000057069,55–59,F,Metro,"$75,000 to $99,999",3,Online/Remote,In-person work,Weekday,0
+4000057441,35–39,M,Metro,"$75,000 to $99,999",3,No school,In-person work,Weekday,4
+4000057511,30–34,M,Metro,"$75,000 to $99,999",1,No school,In-person work,Weekday,8
+4000057541,25–29,F,Metro,"$50,000 to $74,999",1,In-person school,No in-person work,Weekday,3
+4000058025,55–59,F,Non-Metro,"<$25,000",2,No school,No in-person work,Weekday,1
+4000058139,65–69,M,Metro,"$25,000 to $49,999",1,No school,No in-person work,Weekday,2
+4000058353,55–59,F,Metro,"$100,000 to $149,999",4,No school,No in-person work,Weekday,3
+4000058359,65–69,F,Metro,"$50,000 to $74,999",2,No school,No in-person work,Weekday,5
+4000058425,50–54,M,Metro,"$100,000 to $149,999",5,No school,In-person work,Weekday,4
+4000058531,60–64,F,Metro,"$75,000 to $99,999",2,No school,No in-person work,Weekday,1
+4000058749,45–49,F,Metro,"$25,000 to $49,999",4,Online/Remote,No in-person work,Weekday,2
+4000058943,25–29,M,Metro,"$75,000 to $99,999",5,In-person school,In-person work,Weekday,13
+4000058965,50–54,F,Metro,"$25,000 to $49,999",3,No school,No in-person work,Weekday,4
+4000059155,65–69,F,Metro,"$100,000 to $149,999",2,No school,No in-person work,Weekday,1
+4000059183,60–64,F,Metro,"$75,000 to $99,999",1,No school,No in-person work,Weekday,0
+4000059211,35–39,M,Metro,"$25,000 to $49,999",5,Online/Remote,In-person work,Weekday,6
+4000059645,70–74,M,Metro,"$50,000 to $74,999",3,No school,No in-person work,Weekday,0
+4000059675,25–29,M,Metro,"<$25,000",1,No school,No in-person work,Weekday,2
+4000059825,25–29,F,Metro,"$25,000 to $49,999",3,No school,In-person work,Weekday,3
+4000060217,45–49,F,Metro,"$150,000+",4,No school,In-person work,Weekday,12
+4000060583,15–19,M,Metro,"$150,000+",3,In-person school,No in-person work,Weekday,40
+4000060709,65–69,F,Metro,"$75,000 to $99,999",3,No school,No in-person work,Weekday,2
+4000060713,45–49,F,Non-Metro,"$75,000 to $99,999",2,No school,No in-person work,Weekday,1
+4000060817,55–59,M,Metro,"$150,000+",4,No school,No in-person work,Weekday,2
+4000060829,35–39,M,Metro,"$50,000 to $74,999",5,No school,No in-person work,Weekday,4
+4000060999,40–44,M,Metro,"$100,000 to $149,999",6+,No school,In-person work,Weekday,15
+4000061103,35–39,F,Metro,"$150,000+",4,No school,No in-person work,Weekday,1
+4000061155,75+,M,Non-Metro,"$25,000 to $49,999",2,No school,No in-person work,Weekday,1
+4000061275,35–39,M,Non-Metro,"$50,000 to $74,999",1,No school,No in-person work,Weekday,0
+4000061289,50–54,M,Non-Metro,"$25,000 to $49,999",3,In-person school,No in-person work,Weekday,4
+4000061365,20–24,F,Non-Metro,"$50,000 to $74,999",5,Online/Remote,No in-person work,Weekday,6
+4000061855,30–34,F,Metro,"$150,000+",3,No school,No in-person work,Weekday,3
+4000061871,30–34,M,Metro,"$25,000 to $49,999",1,No school,In-person work,Weekday,5
+4000061897,75+,F,Non-Metro,"$50,000 to $74,999",2,No school,No in-person work,Weekday,1
+4000061981,35–39,M,Non-Metro,"$25,000 to $49,999",3,No school,No in-person work,Weekday,1
+4000062087,55–59,F,Non-Metro,"$50,000 to $74,999",2,No school,No in-person work,Weekday,11
+4000062117,70–74,F,Non-Metro,"<$25,000",1,No school,No in-person work,Weekday,2
+4000062133,75+,F,Metro,"$25,000 to $49,999",2,No school,No in-person work,Weekday,1
+4000062303,25–29,M,Metro,"$100,000 to $149,999",2,No school,In-person work,Weekday,8
+4000062495,35–39,F,Metro,"$150,000+",2,No school,In-person work,Weekday,9
+4000062507,40–44,M,Metro,"$100,000 to $149,999",1,No school,In-person work,Weekday,8
+4000062675,50–54,M,Metro,"$100,000 to $149,999",1,No school,In-person work,Weekday,5
+4000062741,70–74,F,Metro,"$150,000+",2,No school,No in-person work,Weekday,2
+4000062921,45–49,M,Metro,"$100,000 to $149,999",5,Online/Remote,No in-person work,Weekday,3
+4000063701,35–39,F,Metro,"$75,000 to $99,999",4,No school,In-person work,Weekday,10
+4000063989,45–49,F,Non-Metro,"<$25,000",3,No school,In-person work,Weekday,7
+4000064227,70–74,M,Metro,"<$25,000",2,No school,No in-person work,Weekday,0
+4000064349,35–39,F,Metro,"<$25,000",1,No school,No in-person work,Weekday,0
+4000064445,65–69,F,Metro,"$75,000 to $99,999",1,No school,No in-person work,Weekday,3
+4000064579,35–39,M,Metro,"$100,000 to $149,999",4,No school,In-person work,Weekday,8
+4000064633,60–64,M,Non-Metro,"$75,000 to $99,999",3,No school,No in-person work,Weekday,2
+4000064733,30–34,F,Non-Metro,"$25,000 to $49,999",2,No school,In-person work,Weekday,1
+4000064787,55–59,M,Metro,"$100,000 to $149,999",2,No school,In-person work,Weekday,4
+4000064925,70–74,F,Metro,"$25,000 to $49,999",3,No school,No in-person work,Weekday,1
+4000064997,75+,M,Metro,"$50,000 to $74,999",3,No school,No in-person work,Weekday,1
+4000065057,50–54,F,Metro,"$75,000 to $99,999",3,No school,In-person work,Weekday,5
+4000065099,70–74,M,Metro,"$75,000 to $99,999",2,No school,No in-person work,Weekday,4
+4000065195,50–54,F,Metro,"<$25,000",3,No school,No in-person work,Weekday,1
+4000065931,30–34,F,Metro,"$75,000 to $99,999",2,No school,In-person work,Weekday,31
+4000066019,60–64,M,Metro,"$25,000 to $49,999",1,No school,No in-person work,Weekday,4
+4000066131,60–64,M,Metro,"$25,000 to $49,999",1,No school,In-person work,Weekday,9
+4000066235,40–44,F,Metro,"$25,000 to $49,999",2,No school,No in-person work,Weekday,1
+4000066307,75+,F,Metro,"$25,000 to $49,999",1,No school,No in-person work,Weekday,2
+4000066409,30–34,M,Metro,"$25,000 to $49,999",3,No school,In-person work,Weekday,4
+4000066461,55–59,F,Metro,"$25,000 to $49,999",2,No school,No in-person work,Weekday,2
+4000066655,50–54,F,Non-Metro,"<$25,000",1,No school,No in-person work,Weekday,2
+4000066791,30–34,F,Metro,"$75,000 to $99,999",4,Online/Remote,In-person work,Weekday,4
+4000066895,30–34,M,Metro,"$75,000 to $99,999",4,No school,In-person work,Weekday,18
+4000066915,60–64,M,Metro,"<$25,000",1,No school,No in-person work,Weekday,0
+4000066929,30–34,M,Metro,"$100,000 to $149,999",4,No school,In-person work,Weekday,13
+4000066965,75+,M,Non-Metro,"$75,000 to $99,999",2,No school,No in-person work,Weekday,1
+4000067121,50–54,F,Metro,"$25,000 to $49,999",2,No school,No in-person work,Weekday,11
+4000067197,50–54,F,Metro,"$150,000+",4,No school,No in-person work,Weekday,2
+4000067243,20–24,F,Metro,"$150,000+",4,No school,No in-person work,Weekday,4
+4000067325,25–29,M,Metro,"$75,000 to $99,999",3,No school,In-person work,Weekday,32
+4000067731,60–64,F,Metro,"$100,000 to $149,999",3,No school,No in-person work,Weekday,4
+4000067801,70–74,F,Metro,"$25,000 to $49,999",1,No school,No in-person work,Weekday,1
+4000067873,50–54,F,Non-Metro,"$25,000 to $49,999",3,Online/Remote,No in-person work,Weekday,2
+4000067939,70–74,M,Non-Metro,"$50,000 to $74,999",2,No school,No in-person work,Weekday,3
+4000068037,70–74,M,Non-Metro,"$25,000 to $49,999",1,No school,No in-person work,Weekday,0
+4000068059,75+,M,Metro,"$100,000 to $149,999",2,No school,No in-person work,Weekday,2
+4000068141,50–54,F,Metro,"<$25,000",2,No school,No in-person work,Weekday,1
+4000068561,60–64,F,Metro,"<$25,000",2,No school,In-person work,Weekday,8
+4000068599,65–69,M,Metro,"<$25,000",1,No school,No in-person work,Weekday,0
+4000068603,30–34,M,Metro,"$50,000 to $74,999",4,No school,In-person work,Weekday,13
+4000068739,55–59,F,Metro,"$150,000+",2,No school,In-person work,Weekday,9
+4000068773,65–69,M,Metro,"$25,000 to $49,999",3,No school,No in-person work,Weekday,1
+4000069097,65–69,F,Metro,"$25,000 to $49,999",1,No school,No in-person work,Weekday,0
+4000069127,35–39,F,Non-Metro,"$75,000 to $99,999",4,No school,In-person work,Weekday,7
+4000069311,75+,M,Non-Metro,"$25,000 to $49,999",1,No school,No in-person work,Weekday,0
+4000069327,75+,F,Metro,"<$25,000",1,No school,No in-person work,Weekday,1
+4000069481,75+,F,Non-Metro,"$50,000 to $74,999",1,No school,No in-person work,Weekday,1
+4000069485,55–59,F,Metro,"$25,000 to $49,999",2,No school,No in-person work,Weekday,2
+4000069681,40–44,M,Metro,"$100,000 to $149,999",5,No school,No in-person work,Weekday,3
+4000069683,65–69,M,Metro,"$150,000+",2,No school,In-person work,Weekday,10
+4000069865,50–54,M,Metro,"<$25,000",2,Online/Remote,No in-person work,Weekday,0
+4000069883,35–39,F,Non-Metro,"$150,000+",4,No school,No in-person work,Weekday,13
+4000069895,35–39,M,Non-Metro,"$25,000 to $49,999",6+,No school,In-person work,Weekday,9
+4000069929,45–49,F,Non-Metro,"$50,000 to $74,999",5,No school,No in-person work,Weekday,4
+4000070135,65–69,F,Non-Metro,"$50,000 to $74,999",2,No school,No in-person work,Weekday,3
+4000070155,65–69,F,Metro,"$25,000 to $49,999",1,No school,In-person work,Weekday,4
+4000070275,30–34,F,Non-Metro,"$25,000 to $49,999",1,No school,In-person work,Weekday,15
+4000070365,15–19,F,Non-Metro,"<$25,000",5,In-person school,No in-person work,Weekday,6
+4000070555,40–44,F,Non-Metro,"<$25,000",3,No school,No in-person work,Weekday,2
+4000070807,40–44,F,Metro,"$25,000 to $49,999",4,No school,No in-person work,Weekday,4
+4000070815,40–44,M,Metro,"$150,000+",5,No school,In-person work,Weekday,1
+4000070891,75+,F,Metro,"<$25,000",2,No school,No in-person work,Weekday,0
+4000071051,50–54,F,Metro,"<$25,000",3,No school,No in-person work,Weekday,1
+4000071251,70–74,M,Non-Metro,"$100,000 to $149,999",2,No school,No in-person work,Weekday,7
+4000071315,40–44,F,Metro,"<$25,000",2,No school,No in-person work,Weekday,5
+4000071697,45–49,M,Metro,"$100,000 to $149,999",4,No school,In-person work,Weekday,14
+4000072149,65–69,F,Non-Metro,"$50,000 to $74,999",2,No school,No in-person work,Weekday,6
+4000072365,75+,F,Non-Metro,"$100,000 to $149,999",3,No school,No in-person work,Weekday,10
+4000072375,55–59,M,Metro,"$100,000 to $149,999",5,No school,No in-person work,Weekday,4
+4000072409,75+,F,Metro,"$25,000 to $49,999",1,No school,No in-person work,Weekday,4
+4000072501,75+,M,Metro,"$100,000 to $149,999",2,No school,No in-person work,Weekday,4
+4000072551,60–64,F,Metro,"$150,000+",1,No school,No in-person work,Weekday,2
+4000072723,40–44,M,Non-Metro,"$75,000 to $99,999",2,No school,No in-person work,Weekday,1
+4000072737,75+,M,Non-Metro,"$25,000 to $49,999",1,No school,No in-person work,Weekday,0
+4000072777,25–29,F,Non-Metro,"<$25,000",4,Online/Remote,No in-person work,Weekday,0
+4000072783,20–24,M,Metro,"<$25,000",2,No school,In-person work,Weekday,10
+4000073183,25–29,M,Metro,"$75,000 to $99,999",2,No school,In-person work,Weekday,3
+4000073311,40–44,M,Non-Metro,"$75,000 to $99,999",4,No school,In-person work,Weekday,13
+4000073873,70–74,F,Non-Metro,"$50,000 to $74,999",1,No school,In-person work,Weekday,3
+4000073919,75+,F,Metro,"$25,000 to $49,999",2,No school,No in-person work,Weekday,1
+4000074059,50–54,F,Metro,"$50,000 to $74,999",2,No school,In-person work,Weekday,11
+4000074133,55–59,M,Non-Metro,"<$25,000",2,No school,No in-person work,Weekday,4
+4000074141,35–39,F,Metro,"<$25,000",4,No school,No in-person work,Weekday,2
+4000074333,75+,F,Non-Metro,"$25,000 to $49,999",3,No school,No in-person work,Weekday,6
+4000074701,75+,F,Non-Metro,"$75,000 to $99,999",3,No school,No in-person work,Weekday,4
+4000074753,35–39,M,Non-Metro,"<$25,000",1,Online/Remote,No in-person work,Weekday,0
+4000074805,60–64,F,Metro,"$50,000 to $74,999",3,No school,No in-person work,Weekday,4
+4000074933,40–44,M,Non-Metro,"<$25,000",4,No school,No in-person work,Weekday,2
+4000074939,30–34,M,Non-Metro,"$50,000 to $74,999",3,No school,In-person work,Weekday,3
+4000074977,35–39,M,Metro,"$150,000+",5,In-person school,In-person work,Weekday,25
+4000075053,30–34,F,Metro,"<$25,000",5,No school,No in-person work,Weekday,3
+4000075209,70–74,M,Metro,"$100,000 to $149,999",3,No school,No in-person work,Weekday,1
+4000075481,25–29,F,Metro,"$75,000 to $99,999",5,No school,No in-person work,Weekday,4
+4000075539,60–64,M,Metro,"$50,000 to $74,999",2,No school,In-person work,Weekday,6
+4000075685,60–64,F,Metro,"$50,000 to $74,999",3,No school,No in-person work,Weekday,2
+4000075823,45–49,F,Metro,"$50,000 to $74,999",4,No school,No in-person work,Weekday,3
+4000075865,75+,M,Metro,"$50,000 to $74,999",2,No school,No in-person work,Weekday,1
+4000075909,25–29,F,Metro,"$25,000 to $49,999",2,No school,In-person work,Weekday,6
+4000075925,45–49,M,Metro,"$100,000 to $149,999",2,No school,In-person work,Weekday,0
+4000076013,40–44,F,Non-Metro,"<$25,000",2,In-person school,No in-person work,Weekday,0
+4000076083,70–74,M,Non-Metro,"$25,000 to $49,999",2,No school,No in-person work,Weekday,2
+4000076229,35–39,M,Metro,"<$25,000",1,No school,No in-person work,Weekday,6
+4000076341,50–54,F,Metro,"<$25,000",3,In-person school,No in-person work,Weekday,2
+4000076599,40–44,M,Non-Metro,"$25,000 to $49,999",4,No school,In-person work,Weekday,8
+4000076755,20–24,F,Metro,"<$25,000",4,In-person school,In-person work,Weekday,8
+4000077045,75+,F,Non-Metro,"$25,000 to $49,999",2,No school,No in-person work,Weekday,1
+4000077187,30–34,F,Metro,"$25,000 to $49,999",4,No school,No in-person work,Weekday,8
+4000077339,45–49,M,Metro,"$50,000 to $74,999",6+,No school,No in-person work,Weekday,5
+4000077345,40–44,F,Non-Metro,"$50,000 to $74,999",3,No school,No in-person work,Weekday,4
+4000077709,50–54,F,Metro,"$75,000 to $99,999",1,No school,No in-person work,Weekday,0
+4000077743,60–64,F,Non-Metro,"<$25,000",2,No school,No in-person work,Weekday,6
+4000077773,25–29,M,Metro,"$50,000 to $74,999",5,No school,In-person work,Weekday,6
+4000077793,75+,F,Metro,"$25,000 to $49,999",1,No school,No in-person work,Weekday,1
+4000077951,20–24,F,Metro,"<$25,000",3,No school,In-person work,Weekday,6
+4000078013,50–54,F,Non-Metro,"$25,000 to $49,999",1,No school,No in-person work,Weekday,1
+4000078137,75+,F,Non-Metro,"$25,000 to $49,999",1,No school,No in-person work,Weekday,4
+4000078143,25–29,M,Non-Metro,"$100,000 to $149,999",3,No school,In-person work,Weekday,9
+4000078151,20–24,F,Metro,"$75,000 to $99,999",6+,No school,In-person work,Weekday,15
+4000078283,65–69,M,Metro,"$100,000 to $149,999",2,No school,No in-person work,Weekday,2
+4000078323,35–39,F,Non-Metro,"$75,000 to $99,999",3,No school,In-person work,Weekday,3
+4000078339,25–29,M,Metro,"$100,000 to $149,999",2,No school,In-person work,Weekday,8
+4000078385,45–49,M,Non-Metro,"$50,000 to $74,999",1,No school,No in-person work,Weekday,2
+4000078509,45–49,M,Metro,"$150,000+",4,No school,In-person work,Weekday,25
+4000078705,35–39,F,Metro,"<$25,000",4,No school,No in-person work,Weekday,3
+4000078785,70–74,M,Metro,"$25,000 to $49,999",1,No school,No in-person work,Weekday,0
+4000079279,70–74,F,Metro,"$25,000 to $49,999",2,No school,No in-person work,Weekday,1
+4000079731,40–44,F,Non-Metro,"$75,000 to $99,999",3,No school,In-person work,Weekday,2
+4000079757,65–69,F,Metro,"<$25,000",1,No school,No in-person work,Weekday,2
+4000079881,35–39,M,Metro,"$50,000 to $74,999",2,No school,No in-person work,Weekday,0
+4000079973,40–44,M,Metro,"$25,000 to $49,999",2,No school,No in-person work,Weekday,0
+4000080161,55–59,M,Metro,"$75,000 to $99,999",2,No school,No in-person work,Weekday,1
+4000080243,35–39,M,Metro,"$50,000 to $74,999",5,No school,No in-person work,Weekday,3
+4000080357,55–59,F,Metro,"$50,000 to $74,999",1,No school,No in-person work,Weekday,0
+4000080471,65–69,M,Metro,"$100,000 to $149,999",2,No school,No in-person work,Weekday,3
+4000080771,50–54,F,Non-Metro,"$75,000 to $99,999",2,No school,In-person work,Weekday,21
+4000080853,70–74,M,Metro,"$75,000 to $99,999",2,No school,No in-person work,Weekday,3
+4000080993,60–64,F,Metro,"$75,000 to $99,999",3,No school,No in-person work,Weekday,2
+4000081105,20–24,F,Metro,"$25,000 to $49,999",1,No school,No in-person work,Weekday,0
+4000081279,65–69,F,Metro,"$50,000 to $74,999",2,No school,No in-person work,Weekday,1
+4000081369,60–64,M,Metro,"$75,000 to $99,999",2,No school,In-person work,Weekday,5
+4000081457,70–74,M,Metro,"$50,000 to $74,999",1,No school,No in-person work,Weekday,1
+4000081551,40–44,F,Metro,"$25,000 to $49,999",1,No school,No in-person work,Weekday,0
+4000081727,60–64,M,Metro,"$50,000 to $74,999",2,No school,In-person work,Weekday,5
+4000081767,60–64,M,Metro,"$150,000+",1,No school,No in-person work,Weekday,1
+4000082007,65–69,F,Metro,"$50,000 to $74,999",3,No school,No in-person work,Weekday,1
+4000082087,15–19,F,Non-Metro,"$75,000 to $99,999",6+,In-person school,No in-person work,Weekday,14
+4000082131,60–64,M,Metro,"<$25,000",1,No school,No in-person work,Weekday,8
+4000082457,35–39,M,Metro,"$50,000 to $74,999",4,No school,In-person work,Weekday,10
+4000082675,75+,F,Metro,"$50,000 to $74,999",2,No school,No in-person work,Weekday,1
+4000082685,40–44,M,Metro,"$150,000+",4,No school,No in-person work,Weekday,12
+4000082833,75+,F,Metro,"$25,000 to $49,999",1,No school,No in-person work,Weekday,2
+4000082907,35–39,M,Metro,"<$25,000",3,No school,No in-person work,Weekday,0
+4000082909,45–49,F,Non-Metro,"$75,000 to $99,999",4,No school,No in-person work,Weekday,5
+4000082915,65–69,M,Metro,"$100,000 to $149,999",2,No school,No in-person work,Weekday,9
+4000082983,60–64,F,Metro,"$25,000 to $49,999",2,Online/Remote,No in-person work,Weekday,1
+4000082987,65–69,F,Metro,"$25,000 to $49,999",1,No school,No in-person work,Weekday,0
+4000083037,65–69,F,Non-Metro,"$50,000 to $74,999",2,No school,No in-person work,Weekday,6
+4000083135,70–74,M,Metro,"$75,000 to $99,999",2,No school,No in-person work,Weekday,1
+4000083177,70–74,M,Metro,"$25,000 to $49,999",3,No school,No in-person work,Weekday,1
+4000083297,30–34,M,Metro,"$50,000 to $74,999",2,No school,No in-person work,Weekday,1
+4000083335,30–34,F,Metro,"$75,000 to $99,999",1,No school,No in-person work,Weekday,5
+4000083401,50–54,M,Non-Metro,"<$25,000",1,No school,In-person work,Weekday,2
+4000083417,45–49,F,Metro,"$25,000 to $49,999",5,No school,In-person work,Weekday,6
+4000083669,60–64,M,Metro,"$100,000 to $149,999",2,No school,No in-person work,Weekday,3
+4000083759,70–74,F,Metro,"$25,000 to $49,999",2,No school,No in-person work,Weekday,1
+4000083793,65–69,F,Metro,"$150,000+",2,No school,No in-person work,Weekday,15
+4000083859,60–64,M,Metro,"$150,000+",4,No school,No in-person work,Weekday,14
+4000083899,25–29,F,Metro,"$25,000 to $49,999",4,No school,No in-person work,Weekday,13
+4000084051,45–49,F,Metro,"$100,000 to $149,999",3,No school,In-person work,Weekday,8
+4000084209,60–64,M,Metro,"$50,000 to $74,999",1,No school,In-person work,Weekday,5
+4000084221,45–49,F,Non-Metro,"$100,000 to $149,999",2,No school,In-person work,Weekday,8
+4000084311,40–44,M,Metro,"$50,000 to $74,999",3,No school,In-person work,Weekday,5
+4000084373,35–39,M,Metro,"$75,000 to $99,999",3,No school,In-person work,Weekday,4
+4000084401,35–39,F,Metro,"$100,000 to $149,999",3,No school,No in-person work,Weekday,9
+4000084419,45–49,M,Non-Metro,"$75,000 to $99,999",5,Online/Remote,In-person work,Weekday,4
+4000084685,60–64,M,Metro,"$50,000 to $74,999",3,No school,In-person work,Weekday,2
+4000084767,15–19,F,Metro,"$50,000 to $74,999",5,No school,No in-person work,Weekday,4
+4000084933,65–69,M,Metro,"$25,000 to $49,999",3,No school,No in-person work,Weekday,2
+4000085155,40–44,M,Metro,"$25,000 to $49,999",2,No school,No in-person work,Weekday,0
+4000085245,75+,F,Metro,"$25,000 to $49,999",1,No school,No in-person work,Weekday,0
+4000085327,60–64,F,Metro,"$50,000 to $74,999",2,No school,No in-person work,Weekday,4
+4000085329,65–69,F,Metro,"<$25,000",2,No school,No in-person work,Weekday,1
+4000085353,20–24,M,Metro,"$50,000 to $74,999",2,In-person school,In-person work,Weekday,9
+4000085513,35–39,F,Metro,"$25,000 to $49,999",4,No school,No in-person work,Weekday,9
+4000085663,35–39,F,Metro,"$75,000 to $99,999",4,No school,In-person work,Weekday,8
+4000085727,75+,M,Metro,"$25,000 to $49,999",2,No school,No in-person work,Weekday,5
+4000085729,60–64,M,Metro,"$100,000 to $149,999",2,No school,In-person work,Weekday,3
+4000085977,70–74,F,Metro,"$25,000 to $49,999",1,No school,No in-person work,Weekday,0
+4000085989,60–64,M,Metro,"$75,000 to $99,999",4,No school,No in-person work,Weekday,3
+4000086071,65–69,F,Metro,"$150,000+",2,No school,No in-person work,Weekday,5
+4000086209,40–44,M,Metro,"$75,000 to $99,999",4,No school,No in-person work,Weekday,1
+4000086351,40–44,F,Metro,"$75,000 to $99,999",2,No school,In-person work,Weekday,3
+4000086403,25–29,F,Metro,"$50,000 to $74,999",3,No school,No in-person work,Weekday,2
+4000086429,30–34,F,Metro,"<$25,000",2,No school,No in-person work,Weekday,0
+4000086441,75+,M,Metro,"$50,000 to $74,999",2,No school,No in-person work,Weekday,5
+4000086459,30–34,F,Metro,"$150,000+",3,No school,In-person work,Weekday,11
+4000086547,75+,M,Metro,"$150,000+",2,No school,No in-person work,Weekday,5
+4000086579,45–49,F,Non-Metro,"<$25,000",1,No school,No in-person work,Weekday,1
+4000086799,15–19,F,Non-Metro,"<$25,000",4,No school,No in-person work,Weekday,1
+4000086861,75+,M,Metro,"$25,000 to $49,999",1,No school,No in-person work,Weekday,5
+4000087069,25–29,M,Metro,"$50,000 to $74,999",1,No school,In-person work,Weekday,3
+4000087639,50–54,F,Metro,"$75,000 to $99,999",2,No school,No in-person work,Weekday,2
+4000087659,35–39,F,Non-Metro,"<$25,000",1,No school,In-person work,Weekday,5
+4000087677,50–54,F,Metro,"<$25,000",2,No school,No in-person work,Weekday,1
+4000087895,65–69,M,Metro,"$25,000 to $49,999",4,No school,In-person work,Weekday,9
+4000088129,40–44,F,Metro,"<$25,000",1,No school,No in-person work,Weekday,1
+4000088215,70–74,M,Non-Metro,"$50,000 to $74,999",3,No school,No in-person work,Weekday,0
+4000088809,40–44,F,Non-Metro,"$25,000 to $49,999",6+,No school,In-person work,Weekday,7
+4000088937,50–54,F,Metro,"<$25,000",3,No school,No in-person work,Weekday,1
+4000089077,20–24,F,Metro,"<$25,000",1,No school,In-person work,Weekday,7
+4000089129,70–74,F,Metro,"$25,000 to $49,999",1,No school,No in-person work,Weekday,40
+4000089135,35–39,M,Metro,"$150,000+",4,No school,In-person work,Weekday,7
+4000089265,50–54,M,Metro,"$150,000+",4,No school,In-person work,Weekday,13
+4000089285,70–74,F,Non-Metro,"$25,000 to $49,999",2,No school,No in-person work,Weekday,1
+4000089407,25–29,M,Metro,"$75,000 to $99,999",1,No school,No in-person work,Weekday,5
+4000089515,40–44,M,Metro,"$25,000 to $49,999",4,No school,No in-person work,Weekday,3
+4000089743,30–34,F,Metro,"<$25,000",2,No school,No in-person work,Weekday,1
+4000089749,65–69,F,Metro,"$50,000 to $74,999",3,No school,No in-person work,Weekday,8
+4000089793,65–69,M,Metro,"$75,000 to $99,999",2,No school,No in-person work,Weekday,1
+4000089805,40–44,M,Metro,"$150,000+",4,No school,In-person work,Weekday,10
+4000089851,60–64,F,Metro,"$100,000 to $149,999",2,No school,No in-person work,Weekday,6
+4000090009,75+,M,Metro,"$75,000 to $99,999",1,No school,No in-person work,Weekday,0
+4000090061,40–44,F,Metro,"$100,000 to $149,999",4,No school,No in-person work,Weekday,7
+4000090237,30–34,F,Non-Metro,"<$25,000",3,Online/Remote,No in-person work,Weekday,0
+4000090345,60–64,F,Non-Metro,"$25,000 to $49,999",2,No school,No in-person work,Weekday,4
+4000090399,55–59,F,Metro,"$50,000 to $74,999",1,No school,No in-person work,Weekday,10
+4000090429,50–54,M,Metro,"<$25,000",1,No school,No in-person work,Weekday,0
+4000090517,25–29,F,Metro,"$25,000 to $49,999",2,No school,No in-person work,Weekday,1
+4000091115,45–49,F,Metro,"$150,000+",6+,No school,No in-person work,Weekday,4
+4000091229,75+,F,Metro,"<$25,000",1,No school,No in-person work,Weekday,15
+4000091377,70–74,F,Metro,"<$25,000",1,No school,No in-person work,Weekday,0
+4000091685,40–44,F,Metro,"$50,000 to $74,999",5,No school,In-person work,Weekday,2
+4000091687,65–69,M,Metro,"$75,000 to $99,999",4,No school,In-person work,Weekday,2
+4000091925,25–29,F,Metro,"$50,000 to $74,999",3,No school,In-person work,Weekday,4
+4000092047,30–34,M,Metro,"$50,000 to $74,999",5,No school,No in-person work,Weekday,3
+4000092215,70–74,F,Metro,"$25,000 to $49,999",3,No school,No in-person work,Weekday,2
+4000092323,55–59,F,Metro,"$150,000+",2,No school,No in-person work,Weekday,40
+4000092359,75+,F,Metro,"$75,000 to $99,999",2,No school,No in-person work,Weekday,1
+4000092543,55–59,F,Metro,"$75,000 to $99,999",2,No school,No in-person work,Weekday,9
+4000092581,65–69,F,Metro,"$50,000 to $74,999",2,No school,No in-person work,Weekday,5
+4000092653,75+,M,Non-Metro,"$50,000 to $74,999",3,No school,No in-person work,Weekday,1
+4000092683,35–39,F,Non-Metro,"$25,000 to $49,999",4,No school,No in-person work,Weekday,7
+4000092843,15–19,M,Metro,"$25,000 to $49,999",4,No school,No in-person work,Weekday,4
+4000092887,75+,M,Metro,"$50,000 to $74,999",2,No school,No in-person work,Weekday,4
+4000092925,75+,M,Metro,"$50,000 to $74,999",2,No school,No in-person work,Weekday,3
+4000092927,65–69,M,Non-Metro,"$50,000 to $74,999",2,No school,No in-person work,Weekday,2
+4000093115,55–59,M,Metro,"<$25,000",2,No school,No in-person work,Weekday,2
+4000093189,55–59,M,Metro,"$25,000 to $49,999",2,No school,No in-person work,Weekday,1
+4000093345,50–54,F,Non-Metro,"$50,000 to $74,999",3,Online/Remote,No in-person work,Weekday,3
+4000093391,65–69,M,Metro,"$75,000 to $99,999",2,No school,In-person work,Weekday,21
+4000093783,70–74,F,Metro,"$25,000 to $49,999",1,No school,No in-person work,Weekday,0
+4000094001,65–69,M,Metro,"<$25,000",1,No school,No in-person work,Weekday,0
+4000094115,60–64,F,Metro,"$50,000 to $74,999",2,No school,No in-person work,Weekday,1
+4000094461,40–44,M,Metro,"$25,000 to $49,999",3,No school,No in-person work,Weekday,0
+4000094695,45–49,M,Metro,"$25,000 to $49,999",1,No school,In-person work,Weekday,9
+4000094865,30–34,F,Metro,"$50,000 to $74,999",1,No school,In-person work,Weekday,10
+4000095027,65–69,F,Metro,"$25,000 to $49,999",1,No school,No in-person work,Weekday,5
+4000095227,70–74,M,Metro,"$75,000 to $99,999",2,No school,No in-person work,Weekday,1
+4000095349,75+,M,Metro,"$50,000 to $74,999",2,No school,No in-person work,Weekday,1
+4000095535,70–74,M,Metro,"$50,000 to $74,999",4,No school,No in-person work,Weekday,3
+4000095635,40–44,M,Metro,"<$25,000",3,No school,No in-person work,Weekday,2
+4000095783,40–44,M,Metro,"$50,000 to $74,999",2,No school,No in-person work,Weekday,1
+4000095827,40–44,M,Metro,"$100,000 to $149,999",2,No school,In-person work,Weekday,3
+4000095987,50–54,F,Metro,"$25,000 to $49,999",1,No school,In-person work,Weekday,40
+4000096109,65–69,F,Metro,"$25,000 to $49,999",2,No school,No in-person work,Weekday,1
+4000096139,40–44,M,Metro,"$75,000 to $99,999",4,No school,No in-person work,Weekday,6
+4000096215,65–69,M,Metro,"$25,000 to $49,999",6+,No school,No in-person work,Weekday,7
+4000096333,45–49,F,Metro,"$75,000 to $99,999",3,No school,No in-person work,Weekday,5
+4000096547,30–34,F,Non-Metro,"$25,000 to $49,999",2,No school,In-person work,Weekday,8
+4000096551,30–34,M,Non-Metro,"$25,000 to $49,999",5,No school,In-person work,Weekday,10
+4000096681,65–69,F,Metro,"$25,000 to $49,999",1,No school,No in-person work,Weekday,6
+4000096755,40–44,F,Metro,"$50,000 to $74,999",5,No school,No in-person work,Weekday,5
+4000096961,70–74,F,Metro,"$50,000 to $74,999",2,No school,No in-person work,Weekday,13
+4000097111,60–64,M,Metro,"$150,000+",4,No school,No in-person work,Weekday,5
+4000097179,35–39,F,Metro,"$150,000+",4,No school,No in-person work,Weekday,3
+4000097657,40–44,M,Metro,"$25,000 to $49,999",4,Online/Remote,In-person work,Weekday,9
+4000097941,40–44,F,Metro,"$150,000+",5,No school,No in-person work,Weekday,4
+4000097959,45–49,F,Metro,"$100,000 to $149,999",1,No school,In-person work,Weekday,17
+4000097963,45–49,M,Metro,"$100,000 to $149,999",6+,No school,No in-person work,Weekday,14
+4000098039,65–69,M,Non-Metro,"<$25,000",1,No school,No in-person work,Weekday,2
+4000098149,70–74,F,Metro,"$50,000 to $74,999",2,No school,No in-person work,Weekday,1
+4000098247,75+,F,Non-Metro,"$25,000 to $49,999",1,No school,No in-person work,Weekday,0
+4000098491,30–34,F,Metro,"<$25,000",4,No school,No in-person work,Weekday,0
+4000098715,75+,F,Metro,"<$25,000",1,No school,No in-person work,Weekday,0
+4000099031,35–39,M,Metro,"$25,000 to $49,999",2,Online/Remote,No in-person work,Weekday,0
+4000099299,75+,F,Metro,"$25,000 to $49,999",1,No school,In-person work,Weekday,4
+4000099423,40–44,F,Non-Metro,"<$25,000",5,No school,No in-person work,Weekday,3
+4000099467,50–54,F,Metro,"$150,000+",5,No school,No in-person work,Weekday,7
+4000099545,75+,M,Metro,"$150,000+",2,No school,No in-person work,Weekday,3
+4000099677,70–74,M,Metro,"$25,000 to $49,999",1,No school,No in-person work,Weekday,2
+4000099689,25–29,M,Metro,"$25,000 to $49,999",1,No school,In-person work,Weekday,20
+4000099753,35–39,M,Non-Metro,"$100,000 to $149,999",4,No school,In-person work,Weekday,16
+4000099783,35–39,M,Metro,"$25,000 to $49,999",2,No school,No in-person work,Weekday,1
+4000099815,70–74,M,Metro,"$25,000 to $49,999",2,No school,No in-person work,Weekday,21
+4000099831,55–59,F,Metro,"<$25,000",2,No school,No in-person work,Weekday,2
+4000099885,70–74,F,Metro,"$75,000 to $99,999",2,No school,No in-person work,Weekday,1
+4000099971,60–64,F,Metro,"$75,000 to $99,999",2,No school,No in-person work,Weekday,3
+4000100001,70–74,M,Non-Metro,"$50,000 to $74,999",3,No school,No in-person work,Weekday,2
+4000100127,60–64,M,Metro,"$50,000 to $74,999",2,No school,No in-person work,Weekday,1
+4000100521,20–24,F,Metro,"<$25,000",1,No school,No in-person work,Weekday,0
+4000100737,35–39,M,Metro,"$150,000+",4,No school,No in-person work,Weekday,3
+4000100849,60–64,F,Metro,"$75,000 to $99,999",2,No school,No in-person work,Weekday,1
+4000100879,75+,M,Non-Metro,"<$25,000",2,No school,No in-person work,Weekday,3
+4000100977,60–64,F,Metro,"$25,000 to $49,999",2,Online/Remote,In-person work,Weekday,8
+4000101005,75+,M,Metro,"$25,000 to $49,999",3,No school,No in-person work,Weekday,2
+4000101111,25–29,M,Metro,"$50,000 to $74,999",5,No school,No in-person work,Weekday,4
+4000101163,40–44,M,Metro,"$100,000 to $149,999",3,No school,No in-person work,Weekday,1
+4000101211,60–64,F,Metro,"$25,000 to $49,999",2,No school,No in-person work,Weekday,1
+4000101461,70–74,M,Metro,"$100,000 to $149,999",2,No school,No in-person work,Weekday,3
+4000101475,30–34,F,Metro,"$25,000 to $49,999",5,No school,No in-person work,Weekday,6
+4000101663,60–64,F,Metro,"$25,000 to $49,999",1,Online/Remote,No in-person work,Weekday,0
+4000101979,30–34,F,Metro,"$25,000 to $49,999",6+,No school,In-person work,Weekday,6
+4000102315,65–69,F,Metro,"<$25,000",1,No school,No in-person work,Weekday,0
+4000102381,65–69,F,Metro,"$25,000 to $49,999",3,No school,No in-person work,Weekday,1
+4000102429,20–24,M,Non-Metro,"$50,000 to $74,999",3,No school,No in-person work,Weekday,2
+4000102495,75+,M,Metro,"$50,000 to $74,999",2,No school,No in-person work,Weekday,1
+4000102629,75+,M,Metro,"$75,000 to $99,999",2,No school,No in-person work,Weekday,3
+4000102649,25–29,F,Metro,"$25,000 to $49,999",2,Online/Remote,No in-person work,Weekday,2
+4000102691,75+,M,Metro,"$100,000 to $149,999",2,No school,No in-person work,Weekday,1
+4000102935,55–59,F,Metro,"<$25,000",1,No school,No in-person work,Weekday,1
+4000102961,65–69,F,Metro,"$25,000 to $49,999",1,No school,No in-person work,Weekday,2
+4000103033,30–34,F,Metro,"$25,000 to $49,999",1,No school,In-person work,Weekday,38
+4000103127,45–49,M,Metro,"<$25,000",1,No school,No in-person work,Weekday,2
+4000103179,35–39,F,Metro,"$100,000 to $149,999",6+,No school,No in-person work,Weekday,6
+4000103197,35–39,M,Metro,"$25,000 to $49,999",4,No school,No in-person work,Weekday,4
+4000103319,25–29,F,Non-Metro,"<$25,000",3,No school,In-person work,Weekday,5
+4000103323,60–64,F,Metro,"<$25,000",1,No school,No in-person work,Weekday,4
+4000103529,35–39,F,Metro,"<$25,000",2,No school,No in-person work,Weekday,6
+4000103735,65–69,M,Non-Metro,"<$25,000",1,No school,No in-person work,Weekday,2
+4000103737,65–69,F,Metro,"$25,000 to $49,999",2,No school,No in-person work,Weekday,2
+4000103913,50–54,M,Metro,"<$25,000",2,No school,No in-person work,Weekday,4
+4000104103,65–69,F,Metro,"$75,000 to $99,999",1,No school,No in-person work,Weekday,1
+4000104177,65–69,F,Metro,"<$25,000",1,No school,No in-person work,Weekday,1
+4000104531,35–39,F,Non-Metro,"$100,000 to $149,999",3,No school,No in-person work,Weekday,1
+4000104747,65–69,F,Metro,"$100,000 to $149,999",2,No school,No in-person work,Weekday,2
+4000104953,40–44,M,Non-Metro,"<$25,000",1,Online/Remote,No in-person work,Weekday,0
+4000105283,25–29,F,Non-Metro,"<$25,000",4,No school,In-person work,Weekday,7
+4000105349,35–39,M,Non-Metro,"$25,000 to $49,999",4,No school,In-person work,Weekday,11
+4000105453,50–54,F,Metro,"<$25,000",4,No school,No in-person work,Weekday,0
+4000105531,60–64,F,Metro,"$150,000+",6+,No school,No in-person work,Weekday,4
+4000105861,60–64,M,Metro,"$75,000 to $99,999",2,No school,In-person work,Weekday,16
+4000105967,50–54,M,Metro,"$50,000 to $74,999",1,No school,In-person work,Weekday,2
+4000106155,55–59,M,Non-Metro,"$25,000 to $49,999",1,No school,No in-person work,Weekday,10
+4000106177,25–29,F,Metro,"$25,000 to $49,999",3,No school,No in-person work,Weekday,2
+4000106255,35–39,M,Metro,"<$25,000",4,No school,In-person work,Weekday,2
+4000106285,70–74,F,Non-Metro,"$25,000 to $49,999",2,No school,No in-person work,Weekday,3
+4000106307,45–49,M,Metro,"$75,000 to $99,999",1,No school,No in-person work,Weekday,0
+4000106323,40–44,M,Metro,"$50,000 to $74,999",4,No school,No in-person work,Weekday,7
+4000106465,40–44,F,Metro,"$150,000+",2,No school,No in-person work,Weekday,1
+4000106563,55–59,F,Metro,"$100,000 to $149,999",2,No school,In-person work,Weekday,14
+4000106691,35–39,F,Metro,"<$25,000",2,No school,No in-person work,Weekday,3
+4000107061,20–24,M,Non-Metro,"$25,000 to $49,999",4,No school,No in-person work,Weekday,2
+4000107177,65–69,F,Non-Metro,"$50,000 to $74,999",2,No school,No in-person work,Weekday,1
+4000107261,45–49,F,Metro,"<$25,000",1,No school,No in-person work,Weekday,2
+4000107413,45–49,M,Metro,"$50,000 to $74,999",5,No school,No in-person work,Weekday,4
+4000107505,75+,F,Non-Metro,"$50,000 to $74,999",1,No school,No in-person work,Weekday,5
+4000107511,25–29,F,Metro,"$75,000 to $99,999",5,No school,In-person work,Weekday,15
+4000107515,25–29,F,Non-Metro,"$150,000+",5,No school,In-person work,Weekday,10
+4000107833,65–69,M,Metro,"$100,000 to $149,999",3,No school,No in-person work,Weekday,3
+4000108075,75+,M,Metro,"$150,000+",2,No school,No in-person work,Weekday,1
+4000108095,45–49,M,Metro,"$25,000 to $49,999",6+,No school,No in-person work,Weekday,8
+4000108139,40–44,F,Metro,"<$25,000",3,No school,No in-person work,Weekday,4
+4000108209,40–44,F,Metro,"$75,000 to $99,999",3,Online/Remote,No in-person work,Weekday,2
+4000108299,70–74,F,Non-Metro,"$50,000 to $74,999",1,No school,No in-person work,Weekday,2
+4000108427,45–49,F,Non-Metro,"$25,000 to $49,999",4,No school,No in-person work,Weekday,6
+4000108701,70–74,F,Metro,"$100,000 to $149,999",2,No school,In-person work,Weekday,1
+4000108819,60–64,F,Metro,"$75,000 to $99,999",3,No school,No in-person work,Weekday,4
+4000108857,50–54,M,Non-Metro,"<$25,000",1,No school,No in-person work,Weekday,2
+4000108931,35–39,M,Metro,"<$25,000",5,No school,No in-person work,Weekday,4
+4000109109,55–59,F,Metro,"<$25,000",1,No school,In-person work,Weekday,9
+4000109155,60–64,M,Non-Metro,"<$25,000",1,No school,No in-person work,Weekday,0
+4000109443,25–29,M,Metro,"$100,000 to $149,999",2,No school,In-person work,Weekday,38
+4000109521,75+,M,Metro,"$25,000 to $49,999",1,No school,No in-person work,Weekday,2
+4000109633,35–39,M,Metro,"$100,000 to $149,999",5,No school,In-person work,Weekday,10
+4000109865,25–29,M,Metro,"$25,000 to $49,999",4,No school,In-person work,Weekday,9
+4000109907,70–74,F,Non-Metro,"$100,000 to $149,999",1,No school,No in-person work,Weekday,0
+4000109945,35–39,F,Metro,"$25,000 to $49,999",3,No school,No in-person work,Weekday,0
+4000110007,65–69,F,Metro,"$25,000 to $49,999",1,No school,No in-person work,Weekday,1
+4000110015,55–59,F,Metro,"$100,000 to $149,999",2,No school,No in-person work,Weekday,1
+4000110055,50–54,F,Non-Metro,"$25,000 to $49,999",1,No school,In-person work,Weekday,6
+4000110067,55–59,M,Metro,"$50,000 to $74,999",2,No school,In-person work,Weekday,5
+4000110069,60–64,F,Metro,"$75,000 to $99,999",5,No school,In-person work,Weekday,13
+4000110125,60–64,F,Non-Metro,"<$25,000",5,No school,No in-person work,Weekday,4
+4000110171,45–49,F,Metro,"$25,000 to $49,999",2,No school,No in-person work,Weekday,1
+4000110361,45–49,F,Metro,"$150,000+",3,No school,No in-person work,Weekday,1
+4000110707,50–54,M,Metro,"$50,000 to $74,999",1,No school,No in-person work,Weekday,0
+4000110725,50–54,M,Metro,"<$25,000",2,Online/Remote,No in-person work,Weekday,0
+4000110743,75+,M,Metro,"<$25,000",2,No school,No in-person work,Weekday,10
+4000111175,70–74,M,Metro,"$150,000+",2,No school,No in-person work,Weekday,1
+4000111265,65–69,M,Metro,"$50,000 to $74,999",3,No school,No in-person work,Weekday,4
+4000111287,40–44,F,Non-Metro,"$75,000 to $99,999",5,No school,No in-person work,Weekday,3
+4000111345,50–54,M,Metro,"$100,000 to $149,999",4,No school,In-person work,Weekday,2
+4000111523,75+,M,Metro,"$150,000+",2,No school,No in-person work,Weekday,4
+4000111591,40–44,M,Metro,"$150,000+",6+,Online/Remote,In-person work,Weekday,14
+4000111597,55–59,F,Non-Metro,"$150,000+",3,No school,No in-person work,Weekday,3
+4000111955,60–64,F,Non-Metro,"$25,000 to $49,999",2,No school,No in-person work,Weekday,0
+4000112095,70–74,M,Non-Metro,"$100,000 to $149,999",2,No school,No in-person work,Weekday,8
+4000112107,25–29,F,Metro,"$50,000 to $74,999",2,No school,No in-person work,Weekday,1
+4000112311,55–59,F,Metro,"$75,000 to $99,999",1,No school,No in-person work,Weekday,1
+4000112457,65–69,M,Metro,"$100,000 to $149,999",2,No school,No in-person work,Weekday,3
+4000112463,30–34,F,Metro,"<$25,000",3,Online/Remote,In-person work,Weekday,3
